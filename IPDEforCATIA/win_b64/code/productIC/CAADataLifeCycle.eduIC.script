@@ -1,0 +1,17 @@
+<I.C SCRIPT>  WINNT 3
+M8 1 "" ""
+M1 2 System,1
+M1 2 SystemTS,1
+M1 2 CATPLMComponentInterfaces,1
+M1 2 CATPLMIntegrationAccess,1
+M1 2 CATPLMIntegrationUse,1
+M1 2 ObjectModelerBase,1
+M1 2 CATPLMIdentificationAccess,1
+M1 2 CAAPLMClientAdapter.edu,2
+M1 4 PLMBatchDataAccessInterfaces,1,3,1
+M1 2 BatchInfrastructure,1
+M1 2 PLMSessionInterfaces,1
+M1 2 KnowledgeInterfaces,1
+M1 2 PLMDictionaryNavServices,1
+M1 2 SpecialAPI,1
+EOF

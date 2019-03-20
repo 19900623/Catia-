@@ -1,0 +1,196 @@
+mkmk  -u -g -w  CataModule.m
+2019/2/13 14:40:24
+
+## start step: CIbuild   at 02/13/2019-14:40:25
+## end   step: CIbuild   at 02/13/2019-14:40:25
+
+## start step: DataUpdate   at 02/13/2019-14:40:25
+# make:  CataLogFrmWrk\IdentityCard\Objects\win_b64\.mkdata.mk
+## end   step: DataUpdate   at 02/13/2019-14:40:25
+
+## start step: DataUpdate   at 02/13/2019-14:40:25
+# make:  CataLogFrmWrk\CataModule.m\Objects\win_b64\.mkdata.mk
+## end   step: DataUpdate   at 02/13/2019-14:40:25
+
+## start step: CIcompilation   at 02/13/2019-14:40:25
+## end   step: CIcompilation   at 02/13/2019-14:40:25
+
+## start step: headerlist   at 02/13/2019-14:40:25
+## end   step: headerlist   at 02/13/2019-14:40:25
+
+## start step: headermap   at 02/13/2019-14:40:25
+## end   step: headermap   at 02/13/2019-14:40:25
+
+## start step: fwgrammar   at 02/13/2019-14:40:25
+## end   step: fwgrammar   at 02/13/2019-14:40:25
+
+## start step: grammar1st   at 02/13/2019-14:40:25
+## end   step: grammar1st   at 02/13/2019-14:40:25
+
+## start step: headerlist   at 02/13/2019-14:40:25
+## end   step: headerlist   at 02/13/2019-14:40:25
+
+## start step: headermap   at 02/13/2019-14:40:25
+## end   step: headermap   at 02/13/2019-14:40:25
+
+## start step: grammar2nd   at 02/13/2019-14:40:25
+## end   step: grammar2nd   at 02/13/2019-14:40:25
+
+## start step: typelibgrammar   at 02/13/2019-14:40:25
+## end   step: typelibgrammar   at 02/13/2019-14:40:25
+
+## start step: headerlist   at 02/13/2019-14:40:25
+## end   step: headerlist   at 02/13/2019-14:40:25
+
+## start step: headermap   at 02/13/2019-14:40:25
+## end   step: headermap   at 02/13/2019-14:40:25
+
+## start step: headerruler   at 02/13/2019-14:40:25
+## end   step: headerruler   at 02/13/2019-14:40:25
+
+## start step: compilation   at 02/13/2019-14:40:25
+# make:  CataLogFrmWrk\CataModule.m\src\CataLog.cpp
+CataLog.cpp
+D:\vs2005\VC\atlmfc\include\afxwin1.inl(105) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\vs2005\VC\include\xlocale(326) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\vs2005\VC\include\xlocale(341) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\vs2005\VC\include\xlocale(358) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\vs2005\VC\include\ostream(616) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\vs2005\VC\include\istream(870) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+D:\vs2005\VC\include\istream(1075) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+E:\projects05\Inteface2009\CaTaLog\CataLogFrmWrk\CataModule.m\src\CataLog.cpp(82) : warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        D:\vs2005\VC\include\stdio.h(234) : 参见“fopen”的声明
+D:\vs2005\VC\include\ostream(520) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+        D:\vs2005\VC\include\ostream(512): 编译类 模板 成员函数“std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::put(_Elem)”时
+        with
+        [
+            _Elem=wchar_t,
+            _Traits=std::char_traits<wchar_t>
+        ]
+        D:\vs2005\VC\include\ostream(603): 参见对正在编译的类 模板 实例化“std::basic_ostream<_Elem,_Traits>”的引用
+        with
+        [
+            _Elem=wchar_t,
+            _Traits=std::char_traits<wchar_t>
+        ]
+D:\vs2005\VC\include\ostream(520) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+        D:\vs2005\VC\include\ostream(512): 编译类 模板 成员函数“std::basic_ostream<_Elem,_Traits> &std::basic_ostream<_Elem,_Traits>::put(_Elem)”时
+        with
+        [
+            _Elem=char,
+            _Traits=std::char_traits<char>
+        ]
+        D:\vs2005\VC\include\ostream(645): 参见对正在编译的类 模板 实例化“std::basic_ostream<_Elem,_Traits>”的引用
+        with
+        [
+            _Elem=char,
+            _Traits=std::char_traits<char>
+        ]
+D:\vs2005\VC\include\ostream(144) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+        D:\vs2005\VC\include\ostream(143): 编译类 模板 成员函数“void std::basic_ostream<_Elem,_Traits>::_Osfx(void)”时
+        with
+        [
+            _Elem=wchar_t,
+            _Traits=std::char_traits<wchar_t>
+        ]
+D:\vs2005\VC\include\istream(102) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+        D:\vs2005\VC\include\istream(92): 编译类 模板 成员函数“bool std::basic_istream<_Elem,_Traits>::_Ipfx(bool)”时
+        with
+        [
+            _Elem=wchar_t,
+            _Traits=std::char_traits<wchar_t>
+        ]
+        D:\vs2005\VC\include\istream(858): 参见对正在编译的类 模板 实例化“std::basic_istream<_Elem,_Traits>”的引用
+        with
+        [
+            _Elem=wchar_t,
+            _Traits=std::char_traits<wchar_t>
+        ]
+D:\vs2005\VC\include\istream(102) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+        D:\vs2005\VC\include\istream(92): 编译类 模板 成员函数“bool std::basic_istream<_Elem,_Traits>::_Ipfx(bool)”时
+        with
+        [
+            _Elem=char,
+            _Traits=std::char_traits<char>
+        ]
+        D:\vs2005\VC\include\istream(886): 参见对正在编译的类 模板 实例化“std::basic_istream<_Elem,_Traits>”的引用
+        with
+        [
+            _Elem=char,
+            _Traits=std::char_traits<char>
+        ]
+D:\vs2005\VC\include\ostream(144) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+        D:\vs2005\VC\include\ostream(143): 编译类 模板 成员函数“void std::basic_ostream<_Elem,_Traits>::_Osfx(void)”时
+        with
+        [
+            _Elem=char,
+            _Traits=std::char_traits<char>
+        ]
+D:\vs2005\VC\include\xstring(2009) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+        D:\vs2005\VC\include\xstring(2000): 编译类 模板 成员函数“void std::basic_string<_Elem,_Traits,_Ax>::_Copy(unsigned __int64,unsigned __int64)”时
+        with
+        [
+            _Elem=char,
+            _Traits=std::char_traits<char>,
+            _Ax=std::allocator<char>
+        ]
+        D:\vs2005\VC\include\xstring(2139): 参见对正在编译的类 模板 实例化“std::basic_string<_Elem,_Traits,_Ax>”的引用
+        with
+        [
+            _Elem=char,
+            _Traits=std::char_traits<char>,
+            _Ax=std::allocator<char>
+        ]
+D:\vs2005\VC\include\xstring(2009) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+        D:\vs2005\VC\include\xstring(2000): 编译类 模板 成员函数“void std::basic_string<_Elem,_Traits,_Ax>::_Copy(unsigned __int64,unsigned __int64)”时
+        with
+        [
+            _Elem=wchar_t,
+            _Traits=std::char_traits<wchar_t>,
+            _Ax=std::allocator<wchar_t>
+        ]
+        D:\vs2005\VC\include\xstring(2141): 参见对正在编译的类 模板 实例化“std::basic_string<_Elem,_Traits,_Ax>”的引用
+        with
+        [
+            _Elem=wchar_t,
+            _Traits=std::char_traits<wchar_t>,
+            _Ax=std::allocator<wchar_t>
+        ]
+D:\vs2005\VC\include\xlocnum(130) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+        D:\vs2005\VC\include\xlocnum(123): 编译类 模板 成员函数“void std::numpunct<_Elem>::_Init(const std::_Locinfo &)”时
+        with
+        [
+            _Elem=char
+        ]
+        D:\vs2005\VC\include\xlocnum(1365): 参见对正在编译的类 模板 实例化“std::numpunct<_Elem>”的引用
+        with
+        [
+            _Elem=char
+        ]
+D:\vs2005\VC\include\xlocnum(130) : warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+        D:\vs2005\VC\include\xlocnum(123): 编译类 模板 成员函数“void std::numpunct<_Elem>::_Init(const std::_Locinfo &)”时
+        with
+        [
+            _Elem=wchar_t
+        ]
+        D:\vs2005\VC\include\xlocnum(1371): 参见对正在编译的类 模板 实例化“std::numpunct<_Elem>”的引用
+        with
+        [
+            _Elem=wchar_t
+        ]
+## end   step: compilation   at 02/13/2019-14:40:26
+
+## start step: sourceruler   at 02/13/2019-14:40:26
+## end   step: sourceruler   at 02/13/2019-14:40:26
+
+## start step: link1st   at 02/13/2019-14:40:26
+# make: CataLogFrmWrk\CataModule.m win_b64\code\lib\CataModule.lib
+   正在创建库 E:\projects05\Inteface2009\CaTaLog\.\win_b64\code\lib\CataModule.lib 和对象 E:\projects05\Inteface2009\CaTaLog\.\win_b64\code\lib\CataModule.exp
+## end   step: link1st   at 02/13/2019-14:40:26
+
+## start step: link2nd   at 02/13/2019-14:40:26
+# make: CataLogFrmWrk\CataModule.m win_b64\code\bin\CataModule.dll
+## end   step: link2nd   at 02/13/2019-14:40:27
+
+## start step: dummynls   at 02/13/2019-14:40:27
+## end   step: dummynls   at 02/13/2019-14:40:27

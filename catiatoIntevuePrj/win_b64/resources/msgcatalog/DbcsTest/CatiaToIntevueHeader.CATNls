@@ -1,0 +1,10 @@
+CatiaToIntevueHeader.SetIntevueOptionHdr.ShortHelp = "[十CatiaToIntevueHeader,ntevueOptionHdr.ShortHelp十一構ソチ－SetIntevueOption]";
+CatiaToIntevueHeader.SetIntevueOptionHdr.Title = "[十CatiaToIntevueHeader,SetIntevueOptionHdr.Title十一構ソチ－SetIntevueOption]";
+CatiaToIntevueHeader.SetIntevueOptionHdr.Category = "[十CatiaToIntevueHeader,IntevueOptionHdr.Category十一構ソチ－CatiaToIntevue]";
+CatiaToIntevueHeader.SaveToIntevueHdr.ShortHelp = "[十CatiaToIntevueHeader,aveToIntevueHdr.ShortHelp十一構ソチ－SaveAsIntevue]";
+CatiaToIntevueHeader.SetIntevueOptionHdr.LongHelp = "[十CatiaToIntevueHeader,IntevueOptionHdr.LongHelp十一構ソチ－SetIntevueOption]";
+CatiaToIntevueHeader.SaveToIntevueHdr.LongHelp = "[十CatiaToIntevueHeader,SaveToIntevueHdr.LongHelp十一構ソチ－SaveAsIntevue]";
+CatiaToIntevueHeader.SetIntevueOptionHdr.Help = "[十CatiaToIntevueHeader,.SetIntevueOptionHdr.Help十一構ソチ－SetIntevueOption]";
+CatiaToIntevueHeader.SaveToIntevueHdr.Title = "[十CatiaToIntevueHeader,er.SaveToIntevueHdr.Title十一構ソチ－SaveAsIntevue]";
+CatiaToIntevueHeader.SaveToIntevueHdr.Category = "[十CatiaToIntevueHeader,SaveToIntevueHdr.Category十一構ソチ－CatiaToIntevue]";
+CatiaToIntevueHeader.SaveToIntevueHdr.Help = "[十CatiaToIntevueHeader,der.SaveToIntevueHdr.Help十一構ソチ－SaveAsIntevue]";

@@ -1,0 +1,16 @@
+!<mkRTViewData> v1.0.0
+RTV/002/DSI .\win_b64\code\productIC\IPDEforCATIAFrmIC.required|.\IPDEforCATIAFrm
+DAT/002/CUS .\win_b64\resources\msgcatalog\IPDEforCATIAHeader.CATNls|.\IPDEforCATIAFrm\CNext\resources\msgcatalog\IPDEforCATIAHeader.CATNls
+DAT/002/CUS .\win_b64\resources\graphic\icons\normal\I_ImportIPDEHdr.bmp|.\IPDEforCATIAFrm\CNext\resources\graphic\icons\normal\I_ImportIPDEHdr.bmp
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\IPDEforCATIAHeader.CATNls|.\IPDEforCATIAFrm\CNext\resources\msgcatalog\IPDEforCATIAHeader.CATNls
+DAT/002/CUS .\win_b64\code\dictionary\IPDEforCATIA.dico.bak|.\IPDEforCATIAFrm\CNext\code\dictionary\IPDEforCATIA.dico.bak
+BTV/002/CUS .\win_b64\code\productIC\IPDEforCATIAFrmIC.xml|.\IPDEforCATIAFrm
+DAT/002/CUS .\win_b64\resources\msgcatalog\IPDEforCATIAHeader.CATRsc|.\IPDEforCATIAFrm\CNext\resources\msgcatalog\IPDEforCATIAHeader.CATRsc
+DAT/002/CUS .\win_b64\code\dictionary\IPDEforCATIA.dico|.\IPDEforCATIAFrm\CNext\code\dictionary\IPDEforCATIA.dico
+BTV/002/CUS .\win_b64\code\productIC\IPDEforCATIAFrmIC.script|.\IPDEforCATIAFrm
+DAT/002/CUS .\win_b64\resources\msgcatalog\IPDEforCATIAHeader.CATRsc.bak|.\IPDEforCATIAFrm\CNext\resources\msgcatalog\IPDEforCATIAHeader.CATRsc.bak
+CSC/002/DSI .\IPDEforCATIAFrm\IdentityCard\Objects\win_b64\mkcsc\IPDEforCATIAFrm.cscdb|.\IPDEforCATIAFrm
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\IPDEforCATIAHeader.CATNls|.\IPDEforCATIAFrm\CNext\resources\msgcatalog\IPDEforCATIAHeader.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\IPDEforCATIAHeader.CATNls.bak|.\IPDEforCATIAFrm\CNext\resources\msgcatalog\IPDEforCATIAHeader.CATNls.bak
+@type='codeFramework'
+@built='true'

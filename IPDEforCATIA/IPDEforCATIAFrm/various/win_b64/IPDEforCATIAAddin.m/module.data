@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+CSC/000/DSI .\IPDEforCATIAFrm\IPDEforCATIAAddin.m\Objects\win_b64\mkcsc\IPDEforCATIAAddin.cscdb|.\IPDEforCATIAFrm\IPDEforCATIAAddin.m
+BTV/000/CUS .\win_b64\code\lib\IPDEforCATIAAddin.lib|.\IPDEforCATIAFrm\IPDEforCATIAAddin.m
+INT/000/CUS .\win_b64\code\lib\IPDEforCATIAAddin.exp|.\IPDEforCATIAFrm\IPDEforCATIAAddin.m
+INT/000/CUS .\win_b64\code\bin\IPDEforCATIAAddin.pdb|.\IPDEforCATIAFrm\IPDEforCATIAAddin.m
+RTV/001/CUS .\win_b64\code\bin\IPDEforCATIAAddin.dll|.\IPDEforCATIAFrm\IPDEforCATIAAddin.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

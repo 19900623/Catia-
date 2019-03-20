@@ -1,0 +1,12 @@
+.\win_b64\code\lib\CataModule.lib
+.\win_b64\resources\msgcatalog\CreateCataLogCmd.CATNls
+.\win_b64\code\productIC\CataLogFrmWrkIC.script
+.\win_b64\code\bin\CataModule.pdb
+.\win_b64\code\lib\CataModule.exp
+.\win_b64\code\productIC\CataLogFrmWrkIC.required
+.\win_b64\code\bin\CataModule.dll
+.\win_b64\resources\msgcatalog\DbcsTest\CreateCataLogCmd.CATNls
+.\win_b64\code\dictionary\CataLogFrmWrk.dico
+.\win_b64\resources\msgcatalog\NlsTest\CreateCataLogCmd.CATNls
+.\win_b64\code\productIC\CataLogFrmWrkIC.xml
+.\win_b64\control\CataLogFrmWrk

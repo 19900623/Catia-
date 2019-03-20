@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{e239452e-c08c-469d-be63-0206fdadcaf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{d9f4fde2-c1a1-4ad4-95ff-40aac19477b6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpCommands.m\src\CAAAdpPLMClassChoiceDlg.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpCommands.m\src\CAAAdpQueryDlg.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpCommands.m\src\CAAAdpSecuredBasicCommand.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpCommands.m\src\CAAAdpSecuredCommandDlg.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpCommands.m\src\CAAAdpWorkingWithPLMMaskhdrCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpCommands.m\LocalInterfaces\CAAAdpPLMClassChoiceDlg.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpCommands.m\LocalInterfaces\CAAAdpQueryDlg.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpCommands.m\LocalInterfaces\CAAAdpSecuredBasicCommand.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpCommands.m\LocalInterfaces\CAAAdpSecuredCommandDlg.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpCommands.m\LocalInterfaces\CAAAdpWorkingWithPLMMaskhdrCmd.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpCommands.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

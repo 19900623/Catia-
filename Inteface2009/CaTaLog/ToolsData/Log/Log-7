@@ -1,0 +1,65 @@
+mkmk  -u -g -w  CataModule.m
+2019/2/13 16:15:38
+
+## start step: CIbuild   at 02/13/2019-16:15:38
+## end   step: CIbuild   at 02/13/2019-16:15:38
+
+## start step: DataUpdate   at 02/13/2019-16:15:38
+# make:  CataLogFrmWrk\IdentityCard\Objects\win_b64\.mkdata.mk
+## end   step: DataUpdate   at 02/13/2019-16:15:38
+
+## start step: DataUpdate   at 02/13/2019-16:15:38
+# make:  CataLogFrmWrk\CataModule.m\Objects\win_b64\.mkdata.mk
+## end   step: DataUpdate   at 02/13/2019-16:15:39
+
+## start step: CIcompilation   at 02/13/2019-16:15:39
+## end   step: CIcompilation   at 02/13/2019-16:15:39
+
+## start step: headerlist   at 02/13/2019-16:15:39
+## end   step: headerlist   at 02/13/2019-16:15:39
+
+## start step: headermap   at 02/13/2019-16:15:39
+## end   step: headermap   at 02/13/2019-16:15:39
+
+## start step: fwgrammar   at 02/13/2019-16:15:39
+## end   step: fwgrammar   at 02/13/2019-16:15:39
+
+## start step: grammar1st   at 02/13/2019-16:15:39
+## end   step: grammar1st   at 02/13/2019-16:15:39
+
+## start step: headerlist   at 02/13/2019-16:15:39
+## end   step: headerlist   at 02/13/2019-16:15:39
+
+## start step: headermap   at 02/13/2019-16:15:39
+## end   step: headermap   at 02/13/2019-16:15:39
+
+## start step: grammar2nd   at 02/13/2019-16:15:39
+## end   step: grammar2nd   at 02/13/2019-16:15:39
+
+## start step: typelibgrammar   at 02/13/2019-16:15:39
+## end   step: typelibgrammar   at 02/13/2019-16:15:39
+
+## start step: headerlist   at 02/13/2019-16:15:39
+## end   step: headerlist   at 02/13/2019-16:15:39
+
+## start step: headermap   at 02/13/2019-16:15:39
+## end   step: headermap   at 02/13/2019-16:15:39
+
+## start step: headerruler   at 02/13/2019-16:15:39
+## end   step: headerruler   at 02/13/2019-16:15:39
+
+## start step: compilation   at 02/13/2019-16:15:39
+## end   step: compilation   at 02/13/2019-16:15:39
+
+## start step: sourceruler   at 02/13/2019-16:15:39
+## end   step: sourceruler   at 02/13/2019-16:15:39
+
+## start step: link1st   at 02/13/2019-16:15:39
+## end   step: link1st   at 02/13/2019-16:15:39
+
+## start step: link2nd   at 02/13/2019-16:15:39
+# make: CataLogFrmWrk\CataModule.m win_b64\code\bin\CataModule.dll
+## end   step: link2nd   at 02/13/2019-16:15:40
+
+## start step: dummynls   at 02/13/2019-16:15:40
+## end   step: dummynls   at 02/13/2019-16:15:40

@@ -1,0 +1,6 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "PLMType ,PLM Mask Input";
+idLaunchDialogButton.Title = "Launch Dialog";
+idLblPLMType.Title = "PLM Type";
+idLblMaskType.Title = "Mask Type";
+// END WIZARD REPLACEMENT ZONE

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{56116852-9040-41fc-98f6-f51a9c3d64f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="InputData">
+      <UniqueIdentifier>{3ad7a45f-cadc-42f4-af9e-cf223dc4b467}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{907fb6ae-9399-4736-aa0f-965edcf5def6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CAADataLifeCycle.edu\PrivateInterfaces\CAADLCBatchEventWatcher.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAADataLifeCycle.edu\PrivateInterfaces\ExportedByCAADLCBatchEventWatcher.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\CAADataLifeCycle.edu\.installation.mode">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\CAADataLifeCycle.edu\IdentityCard\IdentityCard.xml">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCInputV5Documents.txt">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCPLMBatchDWC.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCPLMBatchFileEnoviaV5_3DShape.CATPart">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCPLMBatchFileEnoviaV5_Child.CATProduct">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCPLMBatchFileEnoviaV5_Root.CATProduct">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCPLMBatchFileEnoviaV5_Shape.CATPart">
+      <Filter>InputData</Filter>
+    </None>
+  </ItemGroup>
+</Project>

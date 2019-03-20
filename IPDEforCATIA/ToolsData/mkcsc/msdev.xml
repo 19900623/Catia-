@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+  <cpp1>
+    <ErrorList>
+      <Error errorType="STRTOK" line="233" param="233;19;strtok;" severity="Warning" src="./CAABatchInfrastructure.edu/CAABatBatchSample.m/src/batchsample.cpp"/>
+    </ErrorList>
+    <ErrorDescription>
+      <Description desc="Use of C function {3} at line {1} is not authorized." errorType="STRTOK"/>
+    </ErrorDescription>
+  </cpp1>
+</Root>

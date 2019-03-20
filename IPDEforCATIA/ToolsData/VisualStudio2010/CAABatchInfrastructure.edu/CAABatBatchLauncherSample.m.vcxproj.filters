@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{a1a68067-386e-4dd6-b80e-d97eee0ea441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{0a904288-72c2-434f-8e57-be2037cee615}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAABatchInfrastructure.edu\CAABatBatchLauncherSample.m\src\CATBatchEventWatcher.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAABatchInfrastructure.edu\CAABatBatchLauncherSample.m\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAABatchInfrastructure.edu\CAABatBatchLauncherSample.m\LocalInterfaces\CATBatchEventWatcher.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAABatchInfrastructure.edu\CAABatBatchLauncherSample.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

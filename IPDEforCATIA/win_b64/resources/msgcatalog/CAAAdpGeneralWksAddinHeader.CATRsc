@@ -1,0 +1,12 @@
+// COPYRIGHT DASSAULT SYSTEMES 2008
+
+//===========================================================================
+// Resource catalog for the CAAAdpGeneralWksAddinHeader command headers of the
+// General workshop addin
+//===========================================================================
+
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.Icon.Normal    = "I_CAAAdpWorkingWithPLMMask" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.Icon.Normal    = "I_CAAAdpSecuredBasicCommand" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.Icon.Normal    = "I_CAAAdpCreatingDlgBasedOnKnwTypeAndMask" ;
+
+

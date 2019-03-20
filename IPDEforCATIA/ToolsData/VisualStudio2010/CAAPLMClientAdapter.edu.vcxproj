@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\CAAPLMClientAdapter.edu\.installation.mode" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\code\dictionary\CAAPLMClientAdapter.edu.dico" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\graphic\icons\normal\I_CAAAdpCreatingDlgBasedOnKnwTypeAndMask.bmp" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\graphic\icons\normal\I_CAAAdpSecuredBasicCommand.bmp" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\graphic\icons\normal\I_CAAAdpWorkingWithPLMMask.bmp" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpCreationNewModelCommandDlg.CATNls" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpGeneralWksAddinHeader.CATNls" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpGeneralWksAddinHeader.CATRsc" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpGeneralWksAdn.CATNls" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpMaskedFilteredAttributesValueEditorDlg.CATNls" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpPLMClassAndMaskChoiceDlg.CATNls" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpPLMClassChoiceDlg.CATNls" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpQueryDlg.CATNls" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpSecuredCommandDlg.CATNls" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpEnvModelerTypes_DB.sh" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpEnvModelerTypes_TST.sh" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpGetIDFromIdentifierSet_TST.sh" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\IdentityCard\IdentityCard.xml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpMaturity_RepRef.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpMaturity_Root.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpPLMServerAccessErrorManagement.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryOpen.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryOpenPLMRefWithDiffExpandMode.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponentWithUniqueKey.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_CAR_MODEL1.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_CAR_MODEL2.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_CAR_MODEL3.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_PLANE_MODEL1.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_PLANE_MODEL2.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_PLANE_MODEL3.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpRepSize1.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpRepSize2.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpSave.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpVersioning.3dxml" />
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpVersioningWithMonoRepRef.3dxml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpEnvModelerTypes.cpp" />
+    <ClCompile Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpGetPLMObjectFromIdSetAndFromPLMClassType.cpp" />
+    <ClCompile Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpGetPLMObjectsFromAttrAndFromPLMClassType.cpp" />
+    <ClCompile Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpRetreiveAdpTypeFromClassType.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PrivateInterfaces\CAAAdpDisplayAttributeInfo.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\ProtectedInterfaces\CAAAdpGetPLMObjectFromIdSetAndFromType.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\ProtectedInterfaces\CAAAdpGetPLMObjectsFromAttrAndFromType.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\ProtectedInterfaces\CAARetrieveIDofUniquePLMObject.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpCreateCloseSession.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpCreatePartRepresentation.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpGetPLMObjectFromIdSetAndFromPLMClassType.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpGetPLMObjectsFromAttrAndFromPLMClassType.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpMaskedFilteredAttributesValueEditor.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpMaskedFilteredAttributesValueEditorDlg.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpOpenPartRepresentation.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpOpenProduct.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpRetrieveAdpTypeFromClassType.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpUtilities.h" />
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAOpenPLMComponent.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

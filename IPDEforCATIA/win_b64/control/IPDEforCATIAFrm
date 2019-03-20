@@ -1,0 +1,17 @@
+.\win_b64\code\productIC\IPDEforCATIAFrmIC.required
+.\win_b64\resources\msgcatalog\IPDEforCATIAHeader.CATNls
+.\win_b64\resources\graphic\icons\normal\I_ImportIPDEHdr.bmp
+.\win_b64\resources\msgcatalog\DbcsTest\IPDEforCATIAHeader.CATNls
+.\win_b64\code\dictionary\IPDEforCATIA.dico.bak
+.\win_b64\code\productIC\IPDEforCATIAFrmIC.xml
+.\win_b64\resources\msgcatalog\IPDEforCATIAHeader.CATRsc
+.\win_b64\code\dictionary\IPDEforCATIA.dico
+.\win_b64\code\lib\IPDEforCATIAAddin.lib
+.\win_b64\code\lib\IPDEforCATIAAddin.exp
+.\win_b64\code\productIC\IPDEforCATIAFrmIC.script
+.\win_b64\resources\msgcatalog\IPDEforCATIAHeader.CATRsc.bak
+.\win_b64\code\bin\IPDEforCATIAAddin.pdb
+.\win_b64\resources\msgcatalog\NlsTest\IPDEforCATIAHeader.CATNls
+.\win_b64\resources\msgcatalog\IPDEforCATIAHeader.CATNls.bak
+.\win_b64\code\bin\IPDEforCATIAAddin.dll
+.\win_b64\control\IPDEforCATIAFrm

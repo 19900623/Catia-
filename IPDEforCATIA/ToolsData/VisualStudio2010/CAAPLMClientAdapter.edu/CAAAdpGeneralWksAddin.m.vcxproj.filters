@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{fa82ee48-75ca-4302-9f06-f24ccc767237}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{72428ef0-5b15-4312-9933-9f2a98c2a07f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpGeneralWksAddin.m\src\CAAAdpGeneralWksAdn.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpGeneralWksAddin.m\LocalInterfaces\CAAAdpGeneralWksAdn.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpGeneralWksAddin.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CNext">
+      <UniqueIdentifier>{32ec7df1-2258-4eed-98eb-d2365c52a2d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code">
+      <UniqueIdentifier>{f67cb913-3952-45d6-a85e-693e6c9033f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code\dictionary">
+      <UniqueIdentifier>{5ebe97a8-2a7e-4948-b224-e40bb18f9be5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources">
+      <UniqueIdentifier>{4710b255-1a91-4c99-8408-472106b41834}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic">
+      <UniqueIdentifier>{183edfd5-4483-4832-ab7b-2581c184b622}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons">
+      <UniqueIdentifier>{7f04858c-fae3-4db0-ae02-bfd6b2c6d95f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons\normal">
+      <UniqueIdentifier>{cab2fc27-8ada-4cdd-9cd1-37f2324cc841}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog">
+      <UniqueIdentifier>{6902eeb0-360a-45dc-828d-d67bd4d34e5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data.d">
+      <UniqueIdentifier>{ea0e9f80-97bc-451e-8921-72f322889d3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{cb0af668-0c66-4561-8fa7-727e7ee9835a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="InputData">
+      <UniqueIdentifier>{c99e1b73-b17a-4d79-a362-f0f272cdf44f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{379b46d0-1aa3-4ee1-8b54-45342f1559cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProtectedInterfaces">
+      <UniqueIdentifier>{93d8c4ea-755a-4d06-a714-0d6321062272}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PublicInterfaces">
+      <UniqueIdentifier>{eff823e8-0dcd-4b97-ba36-e0246007f517}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpEnvModelerTypes.cpp">
+      <Filter>Data.d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpGetPLMObjectFromIdSetAndFromPLMClassType.cpp">
+      <Filter>Data.d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpGetPLMObjectsFromAttrAndFromPLMClassType.cpp">
+      <Filter>Data.d</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpRetreiveAdpTypeFromClassType.cpp">
+      <Filter>Data.d</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PrivateInterfaces\CAAAdpDisplayAttributeInfo.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\ProtectedInterfaces\CAAAdpGetPLMObjectFromIdSetAndFromType.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\ProtectedInterfaces\CAAAdpGetPLMObjectsFromAttrAndFromType.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\ProtectedInterfaces\CAARetrieveIDofUniquePLMObject.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpCreateCloseSession.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpCreatePartRepresentation.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpGetPLMObjectFromIdSetAndFromPLMClassType.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpGetPLMObjectsFromAttrAndFromPLMClassType.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpMaskedFilteredAttributesValueEditor.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpMaskedFilteredAttributesValueEditorDlg.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpOpenPartRepresentation.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpOpenProduct.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpRetrieveAdpTypeFromClassType.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAAdpUtilities.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\CAAPLMClientAdapter.edu\PublicInterfaces\CAAOpenPLMComponent.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\CAAPLMClientAdapter.edu\.installation.mode">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\code\dictionary\CAAPLMClientAdapter.edu.dico">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\graphic\icons\normal\I_CAAAdpCreatingDlgBasedOnKnwTypeAndMask.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\graphic\icons\normal\I_CAAAdpSecuredBasicCommand.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\graphic\icons\normal\I_CAAAdpWorkingWithPLMMask.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpCreationNewModelCommandDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpGeneralWksAddinHeader.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpGeneralWksAddinHeader.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpGeneralWksAdn.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpMaskedFilteredAttributesValueEditorDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpPLMClassAndMaskChoiceDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpPLMClassChoiceDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpQueryDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\CNext\resources\msgcatalog\CAAAdpSecuredCommandDlg.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpEnvModelerTypes_DB.sh">
+      <Filter>Data.d</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpEnvModelerTypes_TST.sh">
+      <Filter>Data.d</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\Data.d\CAAAdpGetIDFromIdentifierSet_TST.sh">
+      <Filter>Data.d</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\IdentityCard\IdentityCard.xml">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpMaturity_RepRef.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpMaturity_Root.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpPLMServerAccessErrorManagement.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryOpen.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryOpenPLMRefWithDiffExpandMode.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponentWithUniqueKey.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_CAR_MODEL1.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_CAR_MODEL2.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_CAR_MODEL3.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_PLANE_MODEL1.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_PLANE_MODEL2.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpQueryPLMComponent_PLANE_MODEL3.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpRepSize1.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpRepSize2.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpSave.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpVersioning.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+    <None Include="..\..\CAAPLMClientAdapter.edu\InputData\CAAAdpVersioningWithMonoRepRef.3dxml">
+      <Filter>InputData</Filter>
+    </None>
+  </ItemGroup>
+</Project>

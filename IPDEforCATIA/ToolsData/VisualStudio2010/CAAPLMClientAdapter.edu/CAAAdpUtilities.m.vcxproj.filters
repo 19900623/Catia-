@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{6ecab10d-6096-4615-bf4d-4f0deeab10fe}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpUtilities.m\src\CAAAdpCreateCloseSession.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpUtilities.m\src\CAAAdpCreatePartRepresentation.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpUtilities.m\src\CAAAdpDisplayAttributeInfo.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpUtilities.m\src\CAAAdpGetPLMObjectFromIdSetAndFromType.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpUtilities.m\src\CAAAdpGetPLMObjectsFromAttrAndFromType.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpUtilities.m\src\CAAAdpOpenPartRepresentation.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpUtilities.m\src\CAAAdpOpenProduct.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpUtilities.m\src\CAAOpenPLMComponent.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpUtilities.m\src\CAARetrieveIDofUniquePLMObject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <None Include="..\..\..\CAAPLMClientAdapter.edu\CAAAdpUtilities.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CNext">
+      <UniqueIdentifier>{eb2976e5-38a8-4422-bf21-cc0cffb602a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code">
+      <UniqueIdentifier>{2986f3dc-d691-46be-a4ce-dd964225ef0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code\dictionary">
+      <UniqueIdentifier>{7fcb7bb4-1a0f-4bbe-9e94-6e0605809ddf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources">
+      <UniqueIdentifier>{05c01c12-f132-452a-8c3b-405ca38a10cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic">
+      <UniqueIdentifier>{8eb9e3c9-62a7-4c55-8213-c88ed0df60b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons">
+      <UniqueIdentifier>{e108028c-2d0d-48a9-911f-236eaed1b7bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons\large">
+      <UniqueIdentifier>{fce894a1-e3e9-4871-8a74-99f13e2a1a12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons\normal">
+      <UniqueIdentifier>{31a2a3fd-5461-4d5c-a490-e14c1ca7d659}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog">
+      <UniqueIdentifier>{28da5085-02f2-4ad6-a2a2-538852fb9bd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{0dfb504a-4cb1-4812-ae11-3618aa050189}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects">
+      <UniqueIdentifier>{c8dc8683-a88c-4d2e-9294-d243eab30fba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects\win_b64">
+      <UniqueIdentifier>{a1fe512e-e552-418d-916b-a5f9e60e5173}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects\win_b64\.mkGraphs">
+      <UniqueIdentifier>{4d4de724-8edc-4708-8b1b-0dbb9f925ed6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{c2cf7e46-d32f-462a-90fe-2eda184c4183}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProtectedInterfaces">
+      <UniqueIdentifier>{e1ce6215-b144-4f51-b64d-e25fd78d4de5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PublicInterfaces">
+      <UniqueIdentifier>{19d5d507-682c-4fd5-bb36-02d1b0d0edf0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\IPDEforCATIAFrm\PrivateInterfaces\ImportIPDECmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\IPDEforCATIAFrm\PublicInterfaces\CAAAdpCreateCloseSession.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\IPDEforCATIAFrm\PublicInterfaces\CAADLCBatchEventWatcher.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\IPDEforCATIAFrm\PublicInterfaces\CComFun.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\IPDEforCATIAFrm\PublicInterfaces\IPDEforCATIAAddin.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\IPDEforCATIAFrm\CNext\code\dictionary\IPDEforCATIA.dico">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\CNext\code\dictionary\IPDEforCATIA.dico.bak">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\CNext\resources\graphic\icons\normal\I_ImportIPDEHdr.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\CNext\resources\msgcatalog\IPDEforCATIAHeader.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\CNext\resources\msgcatalog\IPDEforCATIAHeader.CATNls.bak">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\CNext\resources\msgcatalog\IPDEforCATIAHeader.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\CNext\resources\msgcatalog\IPDEforCATIAHeader.CATRsc.bak">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\IdentityCard\IdentityCard.xml">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\IdentityCard\Objects\win_b64\.HeaderTable.file">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\IdentityCard\Objects\win_b64\.mkdata.mk">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\IdentityCard\Objects\win_b64\.mkdata.mkb">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\IdentityCard\Objects\win_b64\.mkGraphs\mkBSDummyNLS.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\IdentityCard\Objects\win_b64\.mkGraphs\mkBSHeaderList.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\IdentityCard\Objects\win_b64\.mkGraphs\mkBSHeaderMap.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\IdentityCard\Objects\win_b64\.mkGraphs\mkBSHeaderRuler.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\IdentityCard\Objects\win_b64\.mkGraphs\mkBSIdcardBuild.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\IPDEforCATIAFrm\IdentityCard\Objects\win_b64\.mkHLpath.mk">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+  </ItemGroup>
+</Project>

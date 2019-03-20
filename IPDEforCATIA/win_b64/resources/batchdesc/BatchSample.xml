@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<!DOCTYPE batch SYSTEM "BatchDescriptor.dtd">
+
+<batch   name="BatchSample" 
+		 description="Sample batch" 
+		 commandline="CATBatch CAABatBatchSample"
+		 keydesc="BatchSample.description"
+		 catalog="CATBatchSample" />           
+	

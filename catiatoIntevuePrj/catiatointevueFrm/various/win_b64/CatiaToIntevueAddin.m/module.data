@@ -1,0 +1,11 @@
+!<mkRTViewData> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\CatiaToIntevueAddin.dll|.\catiatointevueFrm\CatiaToIntevueAddin.m
+INT/000/CUS .\win_b64\code\bin\CatiaToIntevueAddin.pdb|.\catiatointevueFrm\CatiaToIntevueAddin.m
+INT/000/CUS .\win_b64\code\lib\CatiaToIntevueAddin.exp|.\catiatointevueFrm\CatiaToIntevueAddin.m
+CSC/000/DSI .\catiatointevueFrm\CatiaToIntevueAddin.m\Objects\win_b64\mkcsc\CatiaToIntevueAddin.cscdb|.\catiatointevueFrm\CatiaToIntevueAddin.m
+BTV/000/CUS .\win_b64\code\lib\CatiaToIntevueAddin.lib|.\catiatointevueFrm\CatiaToIntevueAddin.m
+@deliverable='true'
+@kind='NATIVE'
+@type='SHARED_LIBRARY'
+@built='true'
+@clr='false'

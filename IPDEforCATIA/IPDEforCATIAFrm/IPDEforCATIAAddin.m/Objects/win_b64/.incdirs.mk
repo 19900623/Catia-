@@ -1,0 +1,6 @@
+/I"E:\projects10\IPDEforCATIA\.\IPDEforCATIAFrm\IPDEforCATIAAddin.m\src"
+/I"E:\projects10\IPDEforCATIA\.\IPDEforCATIAFrm\IPDEforCATIAAddin.m\LocalInterfaces"
+/I"E:\projects10\IPDEforCATIA\.\IPDEforCATIAFrm\IPDEforCATIAAddin.m\LocalGenerated\win_b64"
+/I"E:\projects10\IPDEforCATIA\.\IPDEforCATIAFrm\PrivateInterfaces"
+/I"E:\projects10\IPDEforCATIA\.\IPDEforCATIAFrm\PublicInterfaces"
+/I"E:\projects10\IPDEforCATIA\.\IPDEforCATIAFrm\ImportedInterfaces\win_b64"

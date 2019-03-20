@@ -1,0 +1,64 @@
+mkmk  -u -g -w  CataModule.m
+2019/2/13 10:25:43
+
+## start step: CIbuild   at 02/13/2019-10:25:43
+## end   step: CIbuild   at 02/13/2019-10:25:44
+
+## start step: DataUpdate   at 02/13/2019-10:25:44
+# make:  CataLogFrmWrk\IdentityCard\Objects\win_b64\.mkdata.mk
+## end   step: DataUpdate   at 02/13/2019-10:25:46
+
+## start step: DataUpdate   at 02/13/2019-10:25:46
+# make:  CataLogFrmWrk\CataModule.m\Objects\win_b64\.mkdata.mk
+## end   step: DataUpdate   at 02/13/2019-10:25:51
+
+## start step: CIcompilation   at 02/13/2019-10:25:51
+## end   step: CIcompilation   at 02/13/2019-10:25:51
+
+## start step: headerlist   at 02/13/2019-10:25:51
+## end   step: headerlist   at 02/13/2019-10:25:51
+
+## start step: headermap   at 02/13/2019-10:25:51
+## end   step: headermap   at 02/13/2019-10:25:54
+
+## start step: fwgrammar   at 02/13/2019-10:25:54
+## end   step: fwgrammar   at 02/13/2019-10:25:54
+
+## start step: grammar1st   at 02/13/2019-10:25:54
+## end   step: grammar1st   at 02/13/2019-10:25:54
+
+## start step: headerlist   at 02/13/2019-10:25:54
+## end   step: headerlist   at 02/13/2019-10:25:54
+
+## start step: headermap   at 02/13/2019-10:25:54
+## end   step: headermap   at 02/13/2019-10:25:54
+
+## start step: grammar2nd   at 02/13/2019-10:25:54
+## end   step: grammar2nd   at 02/13/2019-10:25:54
+
+## start step: typelibgrammar   at 02/13/2019-10:25:54
+## end   step: typelibgrammar   at 02/13/2019-10:25:55
+
+## start step: headerlist   at 02/13/2019-10:25:55
+## end   step: headerlist   at 02/13/2019-10:25:55
+
+## start step: headermap   at 02/13/2019-10:25:55
+## end   step: headermap   at 02/13/2019-10:25:55
+
+## start step: headerruler   at 02/13/2019-10:25:55
+## end   step: headerruler   at 02/13/2019-10:25:55
+
+## start step: compilation   at 02/13/2019-10:25:55
+## end   step: compilation   at 02/13/2019-10:25:55
+
+## start step: sourceruler   at 02/13/2019-10:25:55
+## end   step: sourceruler   at 02/13/2019-10:25:55
+
+## start step: link1st   at 02/13/2019-10:25:55
+## end   step: link1st   at 02/13/2019-10:25:55
+
+## start step: link2nd   at 02/13/2019-10:25:55
+## end   step: link2nd   at 02/13/2019-10:25:55
+
+## start step: dummynls   at 02/13/2019-10:25:55
+## end   step: dummynls   at 02/13/2019-10:25:55

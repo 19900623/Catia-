@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FW_catiatointevueFrm", "FW_catiatointevueFrm", "{630C05C9-18C4-45A0-B1A4-CBEE92ABB175}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "catiatointevueFrm", "catiatointevueFrm.vcxproj", "{4D10CB5A-CA2F-8704-4900-729CFF9F4DBF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CatiaToIntevueAddin.m", "catiatointevueFrm\CatiaToIntevueAddin.m.vcxproj", "{E34F97CC-A228-4A9E-8232-B1AD4B1B57AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D10CB5A-CA2F-8704-4900-729CFF9F4DBF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4D10CB5A-CA2F-8704-4900-729CFF9F4DBF}.Debug|Win32.Build.0 = Debug|Win32
+		{4D10CB5A-CA2F-8704-4900-729CFF9F4DBF}.Release|Win32.ActiveCfg = Release|Win32
+		{4D10CB5A-CA2F-8704-4900-729CFF9F4DBF}.Release|Win32.Build.0 = Release|Win32
+		{E34F97CC-A228-4A9E-8232-B1AD4B1B57AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E34F97CC-A228-4A9E-8232-B1AD4B1B57AB}.Debug|Win32.Build.0 = Debug|Win32
+		{E34F97CC-A228-4A9E-8232-B1AD4B1B57AB}.Release|Win32.ActiveCfg = Release|Win32
+		{E34F97CC-A228-4A9E-8232-B1AD4B1B57AB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D10CB5A-CA2F-8704-4900-729CFF9F4DBF} = {630C05C9-18C4-45A0-B1A4-CBEE92ABB175}
+		{E34F97CC-A228-4A9E-8232-B1AD4B1B57AB} = {630C05C9-18C4-45A0-B1A4-CBEE92ABB175}
+	EndGlobalSection
+EndGlobal

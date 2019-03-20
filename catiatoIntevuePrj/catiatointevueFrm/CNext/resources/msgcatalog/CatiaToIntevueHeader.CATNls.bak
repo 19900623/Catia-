@@ -1,0 +1,5 @@
+CatiaToIntevueHeader.SaveToIntevueHdr.Category  = "CatiaToIntevue" ;
+CatiaToIntevueHeader.SaveToIntevueHdr.Title     = "SaveAsIntevue" ;
+CatiaToIntevueHeader.SaveToIntevueHdr.ShortHelp = "SaveAsIntevue" ;
+CatiaToIntevueHeader.SaveToIntevueHdr.Help      = "SaveAsIntevue" ;
+CatiaToIntevueHeader.SaveToIntevueHdr.LongHelp  = "SaveAsIntevue" ; 

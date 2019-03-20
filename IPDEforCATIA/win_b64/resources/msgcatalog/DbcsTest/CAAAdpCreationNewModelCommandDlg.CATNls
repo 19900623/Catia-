@@ -1,0 +1,8 @@
+Title = "[十CAAAdpCreationNewModelCommandDlg,Title十一構ソチ－Attribute list]";
+FrNameFrame.NameFeature.Title = "[十CAAAdpCreationNewModelCommandDlg,meFrame.NameFeature.Title十一構ソチ－Attribute value set]";
+PLM_ExternalID.EnglobingFrame.IntermediateFrame.Label.Title = "[十CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title十一構ソチ－PLM_ExternalID ]";
+V_SupplierName.EnglobingFrame.IntermediateFrame.Label.Title = "[十CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title十一構ソチ－V_SupplierName ]";
+V_StdNumber.EnglobingFrame.IntermediateFrame.Label.Title = "[十CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title十一構ソチ－V_StdNumber ]";
+V_Supplier.EnglobingFrame.IntermediateFrame.Label.Title = "[十CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title十一構ソチ－V_Supplier ]";
+V_description.EnglobingFrame.IntermediateFrame.Label.Title = "[十CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title十一構ソチ－V_description ]";
+V_IndustryCode.EnglobingFrame.IntermediateFrame.Label.Title = "[十CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title十一構ソチ－V_IndustryCode ]";

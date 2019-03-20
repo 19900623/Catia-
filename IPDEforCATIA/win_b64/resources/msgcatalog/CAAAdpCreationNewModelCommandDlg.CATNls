@@ -1,0 +1,13 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Attribute list";
+
+// name frame
+FrNameFrame.NameFeature.Title = "Attribute value set";
+
+// parameter frames
+PLM_ExternalID.EnglobingFrame.IntermediateFrame.Label.Title ="PLM_ExternalID " ;
+V_description.EnglobingFrame.IntermediateFrame.Label.Title ="V_description " ;
+V_IndustryCode.EnglobingFrame.IntermediateFrame.Label.Title ="V_IndustryCode " ;
+V_StdNumber.EnglobingFrame.IntermediateFrame.Label.Title ="V_StdNumber " ;
+V_Supplier.EnglobingFrame.IntermediateFrame.Label.Title ="V_Supplier " ;
+V_SupplierName.EnglobingFrame.IntermediateFrame.Label.Title ="V_SupplierName " ;

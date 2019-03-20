@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FW_IPDEforCATIAFrm", "FW_IPDEforCATIAFrm", "{62407D4B-4795-4BE9-A0AE-BCB667D6CE8D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPDEforCATIAFrm", "IPDEforCATIAFrm.vcxproj", "{9A81E455-EC30-35DB-302B-9E17AEDAB66D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPDEforCATIAAddin.m", "IPDEforCATIAFrm\IPDEforCATIAAddin.m.vcxproj", "{49D80494-0872-4B99-83F0-4C0B36738872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A81E455-EC30-35DB-302B-9E17AEDAB66D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A81E455-EC30-35DB-302B-9E17AEDAB66D}.Debug|Win32.Build.0 = Debug|Win32
+		{9A81E455-EC30-35DB-302B-9E17AEDAB66D}.Release|Win32.ActiveCfg = Release|Win32
+		{9A81E455-EC30-35DB-302B-9E17AEDAB66D}.Release|Win32.Build.0 = Release|Win32
+		{49D80494-0872-4B99-83F0-4C0B36738872}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49D80494-0872-4B99-83F0-4C0B36738872}.Debug|Win32.Build.0 = Debug|Win32
+		{49D80494-0872-4B99-83F0-4C0B36738872}.Release|Win32.ActiveCfg = Release|Win32
+		{49D80494-0872-4B99-83F0-4C0B36738872}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9A81E455-EC30-35DB-302B-9E17AEDAB66D} = {62407D4B-4795-4BE9-A0AE-BCB667D6CE8D}
+		{49D80494-0872-4B99-83F0-4C0B36738872} = {62407D4B-4795-4BE9-A0AE-BCB667D6CE8D}
+	EndGlobalSection
+EndGlobal

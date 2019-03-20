@@ -1,0 +1,8 @@
+!<mkRTViewData> v1.0.0
+DAT/002/CUS .\win_b64\resources\msgcatalog\CreateCataLogCmd.CATNls|.\CataLogFrmWrk\CNext\resources\msgcatalog\CreateCataLogCmd.CATNls
+BTV/002/CUS .\win_b64\code\productIC\CataLogFrmWrkIC.script|.\CataLogFrmWrk
+RTV/002/DSI .\win_b64\code\productIC\CataLogFrmWrkIC.required|.\CataLogFrmWrk
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CreateCataLogCmd.CATNls|.\CataLogFrmWrk\CNext\resources\msgcatalog\CreateCataLogCmd.CATNls
+DAT/002/CUS .\win_b64\code\dictionary\CataLogFrmWrk.dico|.\CataLogFrmWrk\CNext\code\dictionary\CataLogFrmWrk.dico
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CreateCataLogCmd.CATNls|.\CataLogFrmWrk\CNext\resources\msgcatalog\CreateCataLogCmd.CATNls
+BTV/002/DSI .\win_b64\code\productIC\CataLogFrmWrkIC.xml|.\CataLogFrmWrk

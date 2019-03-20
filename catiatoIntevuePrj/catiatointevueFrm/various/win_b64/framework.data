@@ -1,0 +1,16 @@
+!<mkRTViewData> v1.0.0
+DAT/002/CUS .\win_b64\resources\graphic\icons\normal\I_SaveToInteVue.bmp|.\catiatointevueFrm\CNext\resources\graphic\icons\normal\I_SaveToInteVue.bmp
+DAT/002/CUS .\win_b64\resources\msgcatalog\CatiaToIntevueHeader.CATNls|.\catiatointevueFrm\CNext\resources\msgcatalog\CatiaToIntevueHeader.CATNls
+DAT/002/CUS .\win_b64\code\dictionary\CatiaToInteuve.dico|.\catiatointevueFrm\CNext\code\dictionary\CatiaToInteuve.dico
+BTV/002/CUS .\win_b64\code\productIC\catiatointevueFrmIC.xml|.\catiatointevueFrm
+BTV/002/CUS .\win_b64\code\productIC\catiatointevueFrmIC.script|.\catiatointevueFrm
+DAT/002/CUS .\win_b64\resources\msgcatalog\CatiaToIntevueHeader.CATRsc.bak|.\catiatointevueFrm\CNext\resources\msgcatalog\CatiaToIntevueHeader.CATRsc.bak
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CatiaToIntevueHeader.CATNls|.\catiatointevueFrm\CNext\resources\msgcatalog\CatiaToIntevueHeader.CATNls
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CatiaToIntevueHeader.CATNls|.\catiatointevueFrm\CNext\resources\msgcatalog\CatiaToIntevueHeader.CATNls
+RTV/002/DSI .\win_b64\code\productIC\catiatointevueFrmIC.required|.\catiatointevueFrm
+DAT/002/CUS .\win_b64\resources\msgcatalog\CatiaToIntevueHeader.CATNls.bak|.\catiatointevueFrm\CNext\resources\msgcatalog\CatiaToIntevueHeader.CATNls.bak
+DAT/002/CUS .\win_b64\resources\msgcatalog\CatiaToIntevueHeader.CATRsc|.\catiatointevueFrm\CNext\resources\msgcatalog\CatiaToIntevueHeader.CATRsc
+CSC/002/DSI .\catiatointevueFrm\IdentityCard\Objects\win_b64\mkcsc\catiatointevueFrm.cscdb|.\catiatointevueFrm
+DAT/002/CUS .\win_b64\code\dictionary\CatiaToInteuve.dico.bak|.\catiatointevueFrm\CNext\code\dictionary\CatiaToInteuve.dico.bak
+@type='codeFramework'
+@built='true'

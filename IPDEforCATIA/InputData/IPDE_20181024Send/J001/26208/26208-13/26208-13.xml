@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Transfer_File_For_Equipment_Components __vers="0">
+    <File_Information __vers="0"/>
+    
+    <File_Summary __vers="0" Num_Classes="1" Num_Components="1"/>
+<Comp Name="26208-13">
+                <Descriptions>
+                    <Description Value="钢质D型水密防火门A60-650X1650 LO" Language="primary"/>
+                </Descriptions>
+                <Attributes Supplier="" App_Class="A">
+                    <Material Type=""/>
+                    <Class_Attribs/>
+                </Attributes>
+                <Electrical_Data EX="" IP="" TC="" Elec="1" Power="0.0000000000000000e+00" Phases="0" VoltDrop="0.0000000000000000e+00" PhaseVolt="0" PowFactor="1.0000000000000000e+00"/>
+                <Properties CogX="0.0000000000000000e+00" CogY="0.0000000000000000e+00" CogZ="0.0000000000000000e+00" Weight="0.0000000000000000e+00"/>
+                <Geometry>
+                    <Model Name="13" Path="/26208"/>
+                </Geometry>
+                <PLM_Data/>
+            <Comps_Of_Class Name="26208-13" __vers="0"/><MDL><MdlConnector Type="0" Label="O" GeomType="99" Description="" Draw_Distance="0.1">
+    <Conn_point>
+     <P3D X="0" Y="0" Z="0"/>
+     <Vec3D mX="0" mY="0" mZ="1"/>
+    </Conn_point>
+   </MdlConnector></MDL></Comp></Transfer_File_For_Equipment_Components>

@@ -1,0 +1,15 @@
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.LongHelp = "[十CAAAdpGeneralWksAddinHeader,ypeAndMaskhdrCmd.LongHelp十一構ソチ－Create Dialog Panel Based On PLM Mask and selected PLM type]";
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.Category = "[十CAAAdpGeneralWksAddinHeader,redCommandhdrCmd.Category十一構ソチ－Tools]";
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.Title = "[十CAAAdpGeneralWksAddinHeader,ecuredCommandhdrCmd.Title十一構ソチ－Secured Command]";
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.Help = "[十CAAAdpGeneralWksAddinHeader,ingWithPLMMaskhdrCmd.Help十一構ソチ－Working With PLM Mask]";
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.Title = "[十CAAAdpGeneralWksAddinHeader,nwTypeAndMaskhdrCmd.Title十一構ソチ－Create Dialog Panel Based On PLM Mask ]";
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.Category = "[十CAAAdpGeneralWksAddinHeader,ithPLMMaskhdrCmd.Category十一構ソチ－Edit]";
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.ShortHelp = "[十CAAAdpGeneralWksAddinHeader,thPLMMaskhdrCmd.ShortHelp十一構ソチ－Working With PLM Mask]";
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.Category = "[十CAAAdpGeneralWksAddinHeader,ypeAndMaskhdrCmd.Category十一構ソチ－Tools]";
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.LongHelp = "[十CAAAdpGeneralWksAddinHeader,redCommandhdrCmd.LongHelp十一構ソチ－Secured Command]";
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.Help = "[十CAAAdpGeneralWksAddinHeader,SecuredCommandhdrCmd.Help十一構ソチ－Secured Command]";
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.Title = "[十CAAAdpGeneralWksAddinHeader,ngWithPLMMaskhdrCmd.Title十一構ソチ－Working With PLM Mask]";
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.LongHelp = "[十CAAAdpGeneralWksAddinHeader,ithPLMMaskhdrCmd.LongHelp十一構ソチ－This Command Shows Retrieved PLM Components by using QueryMask.]";
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.ShortHelp = "[十CAAAdpGeneralWksAddinHeader,peAndMaskhdrCmd.ShortHelp十一構ソチ－Create Dialog Panel Based On PLM Mask]";
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.ShortHelp = "[十CAAAdpGeneralWksAddinHeader,edCommandhdrCmd.ShortHelp十一構ソチ－Secured Command]";
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.Help = "[十CAAAdpGeneralWksAddinHeader,KnwTypeAndMaskhdrCmd.Help十一構ソチ－Create Dialog Panel Based On PLM Mask and selected PLM type]";

@@ -1,0 +1,17 @@
+<?xml version='1.0' ?>
+<eduFramework xmlns = "http://www.3ds.ic" xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation = "http://www.3ds.ic ICModel.xsd">
+  <prerequisite name = "System" access = "Public"/>
+  <prerequisite name = "SystemTS" access = "Public"/>
+  <prerequisite name = "CATPLMComponentInterfaces" access = "Public"/>
+  <prerequisite name = "CATPLMIntegrationAccess" access = "Public"/>
+  <prerequisite name = "CATPLMIntegrationUse" access = "Public"/>
+  <prerequisite name = "ObjectModelerBase" access = "Public"/>
+  <prerequisite name = "CATPLMIdentificationAccess" access = "Public"/>
+  <prerequisite name = "CAAPLMClientAdapter.edu" access = "Protected"/>
+  <prerequisite name = "PLMBatchDataAccessInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "BatchInfrastructure" access = "Public"/>
+  <prerequisite name = "PLMSessionInterfaces" access = "Public"/>
+  <prerequisite name = "KnowledgeInterfaces" access = "Public"/>
+  <prerequisite name = "PLMDictionaryNavServices" access = "Public"/>
+  <prerequisite name = "SpecialAPI" access = "Public"/>
+</eduFramework>

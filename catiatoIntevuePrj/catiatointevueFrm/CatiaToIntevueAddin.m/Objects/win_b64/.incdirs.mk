@@ -1,0 +1,7 @@
+/I"E:\projects10\catiatoIntevuePrj\.\catiatointevueFrm\CatiaToIntevueAddin.m\src"
+/I"E:\projects10\catiatoIntevuePrj\.\catiatointevueFrm\CatiaToIntevueAddin.m\LocalInterfaces"
+/I"E:\projects10\catiatoIntevuePrj\.\catiatointevueFrm\CatiaToIntevueAddin.m\LocalGenerated\win_b64"
+/I"E:\projects10\catiatoIntevuePrj\.\catiatointevueFrm\PrivateInterfaces"
+/I"E:\projects10\catiatoIntevuePrj\.\catiatointevueFrm\ProtectedInterfaces"
+/I"E:\projects10\catiatoIntevuePrj\.\catiatointevueFrm\PublicInterfaces"
+/I"E:\projects10\catiatoIntevuePrj\.\catiatointevueFrm\ImportedInterfaces\win_b64"

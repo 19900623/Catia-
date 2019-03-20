@@ -1,0 +1,5 @@
+/I"E:\projects05\Inteface2009\CaTaLog\.\CataLogFrmWrk\CataModule.m\src"
+/I"E:\projects05\Inteface2009\CaTaLog\.\CataLogFrmWrk\CataModule.m\LocalInterfaces"
+/I"E:\projects05\Inteface2009\CaTaLog\.\CataLogFrmWrk\CataModule.m\LocalGenerated\win_b64"
+/I"E:\projects05\Inteface2009\CaTaLog\.\CataLogFrmWrk\PublicInterfaces"
+/I"E:\projects05\Inteface2009\CaTaLog\.\CataLogFrmWrk\ImportedInterfaces\win_b64"

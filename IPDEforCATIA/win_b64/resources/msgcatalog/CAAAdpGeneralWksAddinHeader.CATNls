@@ -1,0 +1,27 @@
+// COPYRIGHT DASSAULT SYSTEMES 2008
+
+//===========================================================================
+// Message catalog for the CAAAdpGeneralWksAddinHeader command headers of the
+// general workshop addin.
+//===========================================================================
+
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.Category  = "Edit" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.Title     = "Working With PLM Mask" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.ShortHelp = "Working With PLM Mask" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.Help      = "Working With PLM Mask" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.LongHelp  = "This Command Shows Retrieved PLM Components by using QueryMask.";
+
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.Category  = "Tools" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.Title     = "Secured Command" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.ShortHelp = "Secured Command" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.Help      = "Secured Command" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.LongHelp  = "Secured Command";
+
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.Category  = "Tools" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.Title     = "Create Dialog Panel Based On PLM Mask " ;
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.ShortHelp = "Create Dialog Panel Based On PLM Mask" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.Help      = "Create Dialog Panel Based On PLM Mask and selected PLM type" ;
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.LongHelp  = "Create Dialog Panel Based On PLM Mask and selected PLM type";
+
+
+

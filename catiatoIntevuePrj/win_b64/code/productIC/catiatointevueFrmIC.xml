@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<codeFramework xmlns = "http://www.3ds.ic" xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation = "http://www.3ds.ic ICModel.xsd">
+  <prerequisite name = "System" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "AfrFoundation" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "Dialog" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "Mathematics" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ObjectModelerBase" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ObjectModelerSystem" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "SystemTS" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "InteractiveInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "AfrInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "AfrStandard" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "SpecialAPI" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "VisualizationInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "VisualizationController" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "VisualizationFoundation" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "DialogEngine" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ProductStructureInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "CATPLMIdentificationAccess" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "CATPLMComponentInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "CATMecModUseItf" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "CAT3DPhysicalRepInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "GeometricObjects" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "KnowledgeIDLItf" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "GMModelInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "CATMecModLiveUseItf" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "ObjectModelerNavigator" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "PLMModelerBaseInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "DraftingUseItf" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "CATDXImportExportFile" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "KnowledgeInterfaces" access = "Public" expose = "ExposePrereq"/>
+  <prerequisite name = "PLMDictionaryNavServices" access = "Public" expose = "ExposePrereq"/>
+</codeFramework>

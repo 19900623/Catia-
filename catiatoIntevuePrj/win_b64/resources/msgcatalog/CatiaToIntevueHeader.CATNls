@@ -1,0 +1,11 @@
+CatiaToIntevueHeader.SaveToIntevueHdr.Category  = "CatiaToIntevue" ;
+CatiaToIntevueHeader.SaveToIntevueHdr.Title     = "SaveAsIntevue" ;
+CatiaToIntevueHeader.SaveToIntevueHdr.ShortHelp = "SaveAsIntevue" ;
+CatiaToIntevueHeader.SaveToIntevueHdr.Help      = "SaveAsIntevue" ;
+CatiaToIntevueHeader.SaveToIntevueHdr.LongHelp  = "SaveAsIntevue" ; 
+
+CatiaToIntevueHeader.SetIntevueOptionHdr.Category  = "CatiaToIntevue" ;
+CatiaToIntevueHeader.SetIntevueOptionHdr.Title     = "SetIntevueOption" ;
+CatiaToIntevueHeader.SetIntevueOptionHdr.ShortHelp = "SetIntevueOption" ;
+CatiaToIntevueHeader.SetIntevueOptionHdr.Help      = "SetIntevueOption" ;
+CatiaToIntevueHeader.SetIntevueOptionHdr.LongHelp  = "SetIntevueOption" ; 

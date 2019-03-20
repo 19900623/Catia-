@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="LocalInterfaces">
+      <UniqueIdentifier>{4f5acf0d-a7cd-459e-8b0d-3aece6855d56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{0e1135ba-ba3e-4550-9dd8-6d369ce2a759}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CCatiaToIntevueAddin.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CComFun.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CDlgSetOptionCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CSaveHoops.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CSaveToIntevueCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CTestCmd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\IvFile.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\LocalInterfaces\CCatiaToIntevueAddin.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\LocalInterfaces\CSaveHoops.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\LocalInterfaces\IvFile.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\LocalInterfaces\stdafx.h">
+      <Filter>LocalInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\Imakefile.mk">
+      <Filter>
+      </Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+IPDEforCATIAHeader.ImportIPDEHdr.Help = "[~IPDEforCATIAHeader,Header.ImportIPDEHdr.Help~ ImpørtIPDE]";
+IPDEforCATIAHeader.ImportIPDEHdr.Title = "[~IPDEforCATIAHeader,eader.ImportIPDEHdr.Title~ ImpørtIPDE]";
+IPDEforCATIAHeader.ImportIPDEHdr.Category = "[~IPDEforCATIAHeader,er.ImportIPDEHdr.Category~ IPDEførCATIA]";
+IPDEforCATIAHeader.ImportIPDEHdr.ShortHelp = "[~IPDEforCATIAHeader,r.ImportIPDEHdr.ShortHelp~ ImpørtIPDE]";
+IPDEforCATIAHeader.ImportIPDEHdr.LongHelp = "[~IPDEforCATIAHeader,er.ImportIPDEHdr.LongHelp~ ImpørtIPDE]";

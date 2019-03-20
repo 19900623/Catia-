@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Transfer_File_For_Equipment_Components __vers="0">
+    <File_Information __vers="0"/>
+    
+    <File_Summary __vers="0" Num_Classes="1" Num_Components="1"/>
+<Comp Name="16000-01_2">
+                <Descriptions>
+                    <Description Value="30种Color" Language="primary"/>
+                </Descriptions>
+                <Attributes Supplier="" App_Class="A">
+                    <Material Type=""/>
+                    <Class_Attribs/>
+                </Attributes>
+                <Electrical_Data EX="" IP="" TC="" Elec="1" Power="0.0000000000000000e+00" Phases="0" VoltDrop="0.0000000000000000e+00" PhaseVolt="0" PowFactor="1.0000000000000000e+00"/>
+                <Properties CogX="0.0000000000000000e+00" CogY="0.0000000000000000e+00" CogZ="0.0000000000000000e+00" Weight="0.0000000000000000e+00"/>
+                <Geometry>
+                    <Model Name="01PIPE_30COL" Path="/00PROJ"/>
+                </Geometry>
+                <PLM_Data/>
+            <Comps_Of_Class Name="16000-01" __vers="0"/><MDL/></Comp></Transfer_File_For_Equipment_Components>

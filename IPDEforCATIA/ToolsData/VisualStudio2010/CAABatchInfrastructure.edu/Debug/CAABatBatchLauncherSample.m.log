@@ -1,0 +1,13 @@
+﻿生成启动时间为 2019/1/4 15:01:14。
+     1>项目“E:\projects10\IPDEforCATIA\ToolsData\VisualStudio2010\CAABatchInfrastructure.edu\CAABatBatchLauncherSample.m.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\CAABatBatchLauncherSample.m.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\vs2010\VC\bin\CL.exe /c /IE:\projects10\IPDEforCATIA\CAABatchInfrastructure.edu\CAABatBatchLauncherSample.m\LocalInterfaces /I"C:\Program Files\Dassault Systemes\B216\.\BSFBuildtimeData\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\BSFBuildtimeData\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\BatchInfrastructure\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\BatchInfrastructure\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\SpecialAPI\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\SpecialAPI\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\SpecialAPI\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\System\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\System\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\System\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\System\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\SystemTS\PrivateInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\SystemTS\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\SystemTS\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\Communications\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\Communications\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\Communications\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\XMLParserItf\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\XMLParserItf\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\XMLParserItf\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\XMLParserItf\PublicGenerated\win_b64" /ZI /nologo /W1 /WX- /Od /Oy- /D _WINDOWS_SOURCE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\CAABatchInfrastructure.edu\CAABatBatchLauncherSample.m\src\main.cpp
+         main.cpp
+     1>e:\projects10\ipdeforcatia\caabatchinfrastructure.edu\caabatbatchlaunchersample.m\src\main.cpp(23): fatal error C1083: 无法打开包括文件:“CATPLMBatch.h”: No such file or directory
+     1>已完成生成项目“E:\projects10\IPDEforCATIA\ToolsData\VisualStudio2010\CAABatchInfrastructure.edu\CAABatBatchLauncherSample.m.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.70

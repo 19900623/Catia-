@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Data generated with InterOp 2017 1.0.2 E-Bom XML Generator -->
+<E-BOM xmlns="http://www.dassault-systemes.com/V5/Schema/E-Bom"  Version="0.2" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.dassault-systemes.com/V5/Schema/E-BOM.xsd" >
+<Document Name="occActiveX 15" Identifier="G:\项目\湖北\701\IPDE_20181024Send\J002\12NZZL.CATProduct" FilePath="G:\项目\湖北\701\IPDE_20181024Send\J002\12NZZL.CATProduct" SourceUuid="12NZZL.CATProduct" Type="Assembly">
+<Exposition Version="0.2">
+<Structure>
+<Root Name="occActiveX 15" Identifier="occActiveX 15" Unit="MILLIMETER">
+
+<Child Name="1" Identifier="12NZZL-1">
+<Position>
+<V1>           1.000000000000000</V1>
+<V2>           0.000000000000000</V2>
+<V3>           0.000000000000000</V3>
+<V4>           0.000000000000000</V4>
+<V5>           1.000000000000000</V5>
+<V6>           0.000000000000000</V6>
+<V7>           0.000000000000000</V7>
+<V8>           0.000000000000000</V8>
+<V9>           1.000000000000000</V9>
+<T1>           0.000000000000000</T1>
+<T2>           0.000000000000000</T2>
+<T3>           0.000000000000000</T3></Position>
+<RefLink Id="12NZZL-prt0"/>
+</Child>
+
+<Child Name="2" Identifier="12NZZL-2">
+<Position>
+<V1>           1.000000000000000</V1>
+<V2>           0.000000000000000</V2>
+<V3>           0.000000000000000</V3>
+<V4>           0.000000000000000</V4>
+<V5>           1.000000000000000</V5>
+<V6>           0.000000000000000</V6>
+<V7>           0.000000000000000</V7>
+<V8>           0.000000000000000</V8>
+<V9>           1.000000000000000</V9>
+<T1>           0.000000000000000</T1>
+<T2>           0.000000000000000</T2>
+<T3>           0.000000000000000</T3></Position>
+<RefLink Id="12NZZL-prt0"/>
+</Child>
+
+</Root>
+
+<Reference Name="12NZZL-prt0" Identifier="12NZZL-prt0">
+<Rep Name="DETAILED" Identifier="12NZZL-prt0">
+<Shape Id="G:\项目\湖北\701\IPDE_20181024Send\J002\12NZZL.CATProducte-bom-prt0.sab" Type="sab"/>
+</Rep>
+</Reference>
+</Structure>
+</Exposition>
+
+<UserDefinedAttributes>
+<UserDefinedAttribute Name="occActiveX 15">
+<Param Name="Part Number" Value="occActiveX 15" ValueType="1"/>
+<Param Name="Definition" Value="design" ValueType="1"/>
+<Param Name="Nomenclature" Value="occActiveX 15" ValueType="1"/>
+<Param Name="Source" Value="Unknown" ValueType="1"/>
+</UserDefinedAttribute>
+</UserDefinedAttributes>
+</Document>
+
+<Document Name="12NZZL-prt0" Type="sab" Identifier="12NZZL-prt0" FilePath="G:\项目\湖北\701\IPDE_20181024Send\J002\12NZZL.CATProducte-bom-prt0.sab" SourceUuid="12NZZL.CATProducte-bom-prt0.sab"/>
+</E-BOM>

@@ -1,0 +1,8 @@
+Title = "[~CAAAdpCreationNewModelCommandDlg,Title~ Attrîbüté list]";
+FrNameFrame.NameFeature.Title = "[~CAAAdpCreationNewModelCommandDlg,meFrame.NameFeature.Title~ Attrîbüté vålue set]";
+PLM_ExternalID.EnglobingFrame.IntermediateFrame.Label.Title = "[~CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title~ PLM_ExtérnålID ]";
+V_SupplierName.EnglobingFrame.IntermediateFrame.Label.Title = "[~CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title~ V_SüpplîérNåme ]";
+V_StdNumber.EnglobingFrame.IntermediateFrame.Label.Title = "[~CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title~ V_StdNümbér ]";
+V_Supplier.EnglobingFrame.IntermediateFrame.Label.Title = "[~CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title~ V_Süpplîér ]";
+V_description.EnglobingFrame.IntermediateFrame.Label.Title = "[~CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title~ V_déscrîptiøn ]";
+V_IndustryCode.EnglobingFrame.IntermediateFrame.Label.Title = "[~CAAAdpCreationNewModelCommandDlg,rmediateFrame.Label.Title~ V_IndüstryCødé ]";

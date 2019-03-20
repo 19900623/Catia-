@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CNext">
+      <UniqueIdentifier>{edffc030-3690-4679-89ec-788829378da2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources">
+      <UniqueIdentifier>{b65eac6d-8897-4566-b428-febcb86fd63b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\batchdesc">
+      <UniqueIdentifier>{e167dc54-3101-4365-9581-ca64b1b8d792}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog">
+      <UniqueIdentifier>{4dd926ce-35e7-4032-9ef2-c148f01f50e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data.d">
+      <UniqueIdentifier>{3f862c79-30b5-40ee-88c4-69cc2010bb08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{619b8eb9-4d76-4c70-8685-6df0055ae07c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects">
+      <UniqueIdentifier>{3ec03497-6147-494c-b381-dfd0321cbacb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects\win_b64">
+      <UniqueIdentifier>{9fb70e1f-09c9-402a-a655-31d4d22b7fde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects\win_b64\.mkGraphs">
+      <UniqueIdentifier>{ce17f5a6-22ea-41cf-88cb-05ba3849ad51}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\CAABatchInfrastructure.edu\.installation.mode">
+      <Filter>
+      </Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\CNext\resources\batchdesc\BatchSample.xml">
+      <Filter>CNext\resources\batchdesc</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\CNext\resources\msgcatalog\CATBatchSample.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\Data.d\ATTRIBUTCXR1.model">
+      <Filter>Data.d</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\Data.d\BOBINE.model">
+      <Filter>Data.d</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\Data.d\CUBE.model">
+      <Filter>Data.d</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\Data.d\ParamSample.xml">
+      <Filter>Data.d</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\IdentityCard\IdentityCard.xml">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\IdentityCard\Objects\win_b64\.HeaderTable.file">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\IdentityCard\Objects\win_b64\.mkdata.mk">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\IdentityCard\Objects\win_b64\.mkdata.mkb">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\IdentityCard\Objects\win_b64\.mkGraphs\mkBSDummyNLS.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\IdentityCard\Objects\win_b64\.mkGraphs\mkBSHeaderList.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\IdentityCard\Objects\win_b64\.mkGraphs\mkBSHeaderMap.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\IdentityCard\Objects\win_b64\.mkGraphs\mkBSIdcardBuild.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\CAABatchInfrastructure.edu\IdentityCard\Objects\win_b64\.mkHLpath.mk">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+  </ItemGroup>
+</Project>

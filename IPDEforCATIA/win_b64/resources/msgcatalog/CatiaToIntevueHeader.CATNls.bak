@@ -1,0 +1,5 @@
+IPDEforCATIAAddinHeader.ImportIPDEHdr.Category  = "IPDEforCATIA" ;
+IPDEforCATIAAddinHeader.ImportIPDEHdr.Title     = "ImportIPDE" ;
+IPDEforCATIAAddinHeader.ImportIPDEHdr.ShortHelp = "ImportIPDE" ;
+IPDEforCATIAAddinHeader.ImportIPDEHdr.Help      = "ImportIPDE" ;
+IPDEforCATIAAddinHeader.ImportIPDEHdr.LongHelp  = "ImportIPDE" ;

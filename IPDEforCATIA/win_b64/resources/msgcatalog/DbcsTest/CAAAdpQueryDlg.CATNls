@@ -1,0 +1,6 @@
+Title = "[十CAAAdpQueryDlg,Title十一構ソチ－Query]";
+idPLMClassTypeFrame.Title = "[十CAAAdpQueryDlg,idPLMClassTypeFrame.Title十一構ソチ－PLM Class Type]";
+idPLMAttributeValuesFrame.Title = "[十CAAAdpQueryDlg,ttributeValuesFrame.Title十一構ソチ－Attribute - Values]";
+idPLMAttributeValuesFrame.idQueryButton.Title = "[十CAAAdpQueryDlg,Frame.idQueryButton.Title十一構ソチ－Query]";
+idPLMClassTypeFrame.idLblPLMClassType.Title = "[十CAAAdpQueryDlg,e.idLblPLMClassType.Title十一構ソチ－PLMClassType]";
+idResultsFrame.Title = "[十CAAAdpQueryDlg,idResultsFrame.Title十一構ソチ－Results]";

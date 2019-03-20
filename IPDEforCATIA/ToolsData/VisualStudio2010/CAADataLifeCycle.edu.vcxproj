@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="..\..\CAADataLifeCycle.edu\.installation.mode" />
+    <None Include="..\..\CAADataLifeCycle.edu\IdentityCard\IdentityCard.xml" />
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCInputV5Documents.txt" />
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCPLMBatchDWC.3dxml" />
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCPLMBatchFileEnoviaV5_3DShape.CATPart" />
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCPLMBatchFileEnoviaV5_Child.CATProduct" />
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCPLMBatchFileEnoviaV5_Root.CATProduct" />
+    <None Include="..\..\CAADataLifeCycle.edu\InputData\CAADLCPLMBatchFileEnoviaV5_Shape.CATPart" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\CAADataLifeCycle.edu\PrivateInterfaces\CAADLCBatchEventWatcher.h" />
+    <ClInclude Include="..\..\CAADataLifeCycle.edu\PrivateInterfaces\ExportedByCAADLCBatchEventWatcher.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

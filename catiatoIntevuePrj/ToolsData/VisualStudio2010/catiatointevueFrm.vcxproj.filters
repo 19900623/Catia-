@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="CNext">
+      <UniqueIdentifier>{c953fd86-e26f-4a43-8703-452cc09d90c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code">
+      <UniqueIdentifier>{2002a5b0-1bf3-4ef3-a1d8-1e0d9750a62e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\code\dictionary">
+      <UniqueIdentifier>{baa74214-4cc7-4f63-91a0-4212571ad10d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources">
+      <UniqueIdentifier>{638f69b2-2605-4e85-8fff-bde6ddea9208}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic">
+      <UniqueIdentifier>{d77a8e56-10cc-4ae4-8496-054c36c30924}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons">
+      <UniqueIdentifier>{6a109b0a-8a81-4d3c-9637-202323e19ede}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons\large">
+      <UniqueIdentifier>{6f601e16-b383-48b9-9313-b4ac85b40269}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\graphic\icons\normal">
+      <UniqueIdentifier>{5e23c738-2c09-43e6-be8a-44e929e28f13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CNext\resources\msgcatalog">
+      <UniqueIdentifier>{246c427c-fd1f-4d3f-8c15-5b60e3bc863b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard">
+      <UniqueIdentifier>{d020150a-87fb-4ce6-9998-e705cf033dc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects">
+      <UniqueIdentifier>{d5bba06e-384f-472a-9819-e2159d3f3b87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects\win_b64">
+      <UniqueIdentifier>{ddb864cf-7ada-4532-858d-d48e1ae25e42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IdentityCard\Objects\win_b64\.mkGraphs">
+      <UniqueIdentifier>{5138f69f-7513-4935-803f-abe84ae38a3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PrivateInterfaces">
+      <UniqueIdentifier>{410dea64-f0a7-4116-aff4-b512af4d59ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ProtectedInterfaces">
+      <UniqueIdentifier>{9b0a54d4-a253-4230-8a60-03f5854c338b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PublicInterfaces">
+      <UniqueIdentifier>{f385abfa-7664-40c6-b607-726c6fe4e7c4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\catiatointevueFrm\PrivateInterfaces\CSaveToIntevueCmd.h">
+      <Filter>PrivateInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\catiatointevueFrm\ProtectedInterfaces\CatiaToIntevueAddin.h">
+      <Filter>ProtectedInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\catiatointevueFrm\PublicInterfaces\CComFun.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\catiatointevueFrm\PublicInterfaces\CDlgSetOptionCmd.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\catiatointevueFrm\PublicInterfaces\CTestCmd.h">
+      <Filter>PublicInterfaces</Filter>
+    </ClInclude>
+    <None Include="..\..\catiatointevueFrm\CNext\code\dictionary\CatiaToInteuve.dico">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\CNext\code\dictionary\CatiaToInteuve.dico.bak">
+      <Filter>CNext\code\dictionary</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\CNext\resources\graphic\icons\normal\I_SaveToInteVue.bmp">
+      <Filter>CNext\resources\graphic\icons\normal</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\CNext\resources\msgcatalog\CatiaToIntevueHeader.CATNls">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\CNext\resources\msgcatalog\CatiaToIntevueHeader.CATNls.bak">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\CNext\resources\msgcatalog\CatiaToIntevueHeader.CATRsc">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\CNext\resources\msgcatalog\CatiaToIntevueHeader.CATRsc.bak">
+      <Filter>CNext\resources\msgcatalog</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\IdentityCard\IdentityCard.xml">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\IdentityCard\IdentityCard.xml.bak">
+      <Filter>IdentityCard</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\IdentityCard\Objects\win_b64\.HeaderTable.file">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\IdentityCard\Objects\win_b64\.mkdata.mk">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\IdentityCard\Objects\win_b64\.mkdata.mkb">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\IdentityCard\Objects\win_b64\.mkGraphs\mkBSDummyNLS.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\IdentityCard\Objects\win_b64\.mkGraphs\mkBSHeaderList.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\IdentityCard\Objects\win_b64\.mkGraphs\mkBSHeaderMap.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\IdentityCard\Objects\win_b64\.mkGraphs\mkBSHeaderRuler.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\IdentityCard\Objects\win_b64\.mkGraphs\mkBSIdcardBuild.mkDG">
+      <Filter>IdentityCard\Objects\win_b64\.mkGraphs</Filter>
+    </None>
+    <None Include="..\..\catiatointevueFrm\IdentityCard\Objects\win_b64\.mkHLpath.mk">
+      <Filter>IdentityCard\Objects\win_b64</Filter>
+    </None>
+  </ItemGroup>
+</Project>

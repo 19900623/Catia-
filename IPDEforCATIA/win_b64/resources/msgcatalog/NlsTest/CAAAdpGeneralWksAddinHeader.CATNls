@@ -1,0 +1,15 @@
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.LongHelp = "[~CAAAdpGeneralWksAddinHeader,ypeAndMaskhdrCmd.LongHelp~ Créåte Dîaløg Panel Based On PLM Mask and selected PLM type]";
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.Category = "[~CAAAdpGeneralWksAddinHeader,redCommandhdrCmd.Category~ Tøols]";
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.Title = "[~CAAAdpGeneralWksAddinHeader,ecuredCommandhdrCmd.Title~ Sécüred Cømmånd]";
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.Help = "[~CAAAdpGeneralWksAddinHeader,ingWithPLMMaskhdrCmd.Help~ Wørkîng With PLM Måsk]";
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.Title = "[~CAAAdpGeneralWksAddinHeader,nwTypeAndMaskhdrCmd.Title~ Créåte Dîaløg Panel Based On PLM Mask ]";
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.Category = "[~CAAAdpGeneralWksAddinHeader,ithPLMMaskhdrCmd.Category~ Edît]";
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.ShortHelp = "[~CAAAdpGeneralWksAddinHeader,thPLMMaskhdrCmd.ShortHelp~ Wørkîng With PLM Måsk]";
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.Category = "[~CAAAdpGeneralWksAddinHeader,ypeAndMaskhdrCmd.Category~ Tøols]";
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.LongHelp = "[~CAAAdpGeneralWksAddinHeader,redCommandhdrCmd.LongHelp~ Sécüred Cømmånd]";
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.Help = "[~CAAAdpGeneralWksAddinHeader,SecuredCommandhdrCmd.Help~ Sécüred Cømmånd]";
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.Title = "[~CAAAdpGeneralWksAddinHeader,ngWithPLMMaskhdrCmd.Title~ Wørkîng With PLM Måsk]";
+CAAAdpGeneralWksAddinHeader.CAAAdpWorkingWithPLMMaskhdrCmd.LongHelp = "[~CAAAdpGeneralWksAddinHeader,ithPLMMaskhdrCmd.LongHelp~ Thîs Cømmånd Shows Rétrieved PLM Components by üsing QueryMask.]";
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.ShortHelp = "[~CAAAdpGeneralWksAddinHeader,peAndMaskhdrCmd.ShortHelp~ Créåte Dîaløg Panel Based On PLM Mask]";
+CAAAdpGeneralWksAddinHeader.CAAAdpSecuredCommandhdrCmd.ShortHelp = "[~CAAAdpGeneralWksAddinHeader,edCommandhdrCmd.ShortHelp~ Sécüred Cømmånd]";
+CAAAdpGeneralWksAddinHeader.CAAAdpCreatingDlgBasedOnKnwTypeAndMaskhdrCmd.Help = "[~CAAAdpGeneralWksAddinHeader,KnwTypeAndMaskhdrCmd.Help~ Créåte Dîaløg Panel Based On PLM Mask and selected PLM type]";

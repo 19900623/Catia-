@@ -1,0 +1,447 @@
+﻿生成启动时间为 2019/1/2 10:55:31。
+     1>项目“E:\projects10\catiatoIntevuePrj\ToolsData\VisualStudio2010\catiatointevueFrm\CatiaToIntevueAddin.m.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\CatiaToIntevueAddin.m.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\vs2010\VC\bin\CL.exe /c /IE:\projects10\catiatoIntevuePrj\catiatointevueFrm\CatiaToIntevueAddin.m\LocalInterfaces /IE:\projects10\catiatoIntevuePrj\.\catiatointevueFrm\PrivateInterfaces /IE:\projects10\catiatoIntevuePrj\.\catiatointevueFrm\ProtectedInterfaces /IE:\projects10\catiatoIntevuePrj\.\catiatointevueFrm\PublicInterfaces /I"C:\Program Files\Dassault Systemes\B216\.\AfrFoundation\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\AfrFoundation\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\AfrFoundation\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\AfrInterfaces\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\AfrInterfaces\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\AfrInterfaces\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\AfrInterfaces\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\AfrStandard\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\AfrStandard\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\BSFBuildtimeData\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\BSFBuildtimeData\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CAT3DPhysicalRepInterfaces\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATDXImportExportFile\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATMecModLiveUseItf\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATMecModUseItf\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATMecModUseItf\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\CATPLMComponentInterfaces\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATPLMComponentInterfaces\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\CATPLMIdentificationAccess\PrivateInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATPLMIdentificationAccess\PrivateGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\CATPLMIdentificationAccess\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATPLMIdentificationAccess\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\CATPLMIdentificationAccess\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\Dialog\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\Dialog\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\Dialog\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\DialogEngine\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\DraftingUseItf\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\DraftingUseItf\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\GMModelInterfaces\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\GeometricObjects\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\GeometricObjects\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\GeometricObjects\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\GeometricObjects\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\InteractiveInterfaces\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\InteractiveInterfaces\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\InteractiveInterfaces\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\InteractiveInterfaces\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\KnowledgeIDLItf\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\KnowledgeIDLItf\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\KnowledgeInterfaces\PrivateInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\KnowledgeInterfaces\PrivateGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\KnowledgeInterfaces\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\KnowledgeInterfaces\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\KnowledgeInterfaces\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\KnowledgeInterfaces\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\Mathematics\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\Mathematics\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\Mathematics\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerBase\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerBase\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerBase\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerBase\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerNavigator\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerNavigator\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerSystem\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerSystem\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerSystem\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerSystem\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\PLMDictionaryNavServices\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\PLMModelerBaseInterfaces\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ProductStructureInterfaces\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ProductStructureInterfaces\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\SpecialAPI\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\SpecialAPI\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\SpecialAPI\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\System\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\System\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\System\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\System\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\SystemTS\PrivateInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\SystemTS\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\SystemTS\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationController\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationController\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationController\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationController\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationFoundation\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationFoundation\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationFoundation\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationInterfaces\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationInterfaces\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationInterfaces\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationInterfaces\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\AdvancedMathematics\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\AdvancedMathematics\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\AfrComponentsModel\PrivateInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\AfrComponentsModel\PrivateGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\AfrComponentsModel\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\AfrComponentsModel\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\CATDibModelerUseItf\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATDibModelerUseItf\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\CATMathStream\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATMathStream\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\CATMathStream\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATStyleProcessor\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATStyleProcessor\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\CATVirtualVaultSystem\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\CATVirtualVaultSystem\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\DataCommonProtocolUse\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\DataCommonProtocolUse\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\DataCommonProtocolUse\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\IVInterfaces\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\IVInterfaces\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\InfInterfaces\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\InfInterfaces\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\InfOSIDLItf\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\InfOSIDLItf\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\InfOSIDLItf\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\InfOSIDLItf\PublicGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\IntrospectionInfrastructure\PrivateInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\IntrospectionInfrastructure\PrivateGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\IntrospectionInfrastructure\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\IntrospectionInfrastructure\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\MultimediaPixelImage\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\MultimediaPixelImage\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\MultimediaPixelImage\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerCollection\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerEngines\PrivateInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerEngines\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerEngines\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerInterfaces\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\ObjectModelerInterfaces\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\UIVCoreTools\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationCore\PrivateInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationCore\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationCore\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationSceneGraph\PrivateInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\VisualizationSceneGraph\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\XMLParserItf\ProtectedInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\XMLParserItf\ProtectedGenerated\win_b64" /I"C:\Program Files\Dassault Systemes\B216\.\XMLParserItf\PublicInterfaces" /I"C:\Program Files\Dassault Systemes\B216\.\XMLParserItf\PublicGenerated\win_b64" /ZI /nologo /W1 /WX- /Od /Oy- /D _WINDOWS_SOURCE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CCatiaToIntevueAddin.cpp ..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CComFun.cpp ..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CDlgSetOptionCmd.cpp ..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CSaveHoops.cpp ..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CSaveToIntevueCmd.cpp ..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\CTestCmd.cpp ..\..\..\catiatointevueFrm\CatiaToIntevueAddin.m\src\IvFile.cpp
+         IvFile.cpp
+     1>d:\vs2010\vc\atlmfc\include\afx.h(24): fatal error C1189: #error :  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+         CTestCmd.cpp
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C2146: 语法错误: 缺少“;”(在标识符“IsSetSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): warning C4183: “IsSetSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(276): error C2061: 语法错误: 标识符“CATDlgAccelerator”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C2146: 语法错误: 缺少“;”(在标识符“GetAccelerator”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): warning C4183: “GetAccelerator”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C2146: 语法错误: 缺少“,”(在标识符“iForceSmall”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C2548: “CATDialog::SetIconName”: 缺少参数 5 的默认参数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(361): error C2061: 语法错误: 标识符“CATDlgIconType”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C2146: 语法错误: 缺少“;”(在标识符“GetStyle”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): warning C4183: “GetStyle”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(479): error C2061: 语法错误: 标识符“DRECT”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(494): error C2061: 语法错误: 标识符“CATBool”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(501): error C2061: 语法错误: 标识符“DRECT”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(510): error C2061: 语法错误: 标识符“DPOS”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(519): error C2061: 语法错误: 标识符“CATBool”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(526): error C2061: 语法错误: 标识符“DPOS”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(725): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(180): error C2061: 语法错误: 标识符“Orientation”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C2146: 语法错误: 缺少“;”(在标识符“GetDefaultOrientation”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): warning C4183: “GetDefaultOrientation”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(243): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(276): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(292): error C2061: 语法错误: 标识符“CATDlgAttachment”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(306): error C2061: 语法错误: 标识符“CATDlgAttachment”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(321): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(339): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(352): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(363): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(469): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(474): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(93): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(126): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(157): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcontrol.h(350): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlglabel.h(96): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgeditor.h(162): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(52): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgpushbutton.h(53): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>d:\vs2010\vc\atlmfc\include\afx.h(24): fatal error C1189: #error :  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+         CSaveToIntevueCmd.cpp
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(119): error C2146: 语法错误: 缺少“;”(在标识符“GetVisibility”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(119): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(119): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(119): warning C4183: “GetVisibility”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(134): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(150): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C2146: 语法错误: 缺少“;”(在标识符“IsSetSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): warning C4183: “IsSetSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(169): error C2146: 语法错误: 缺少“;”(在标识符“GetSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(169): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(169): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(169): warning C4183: “GetSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(257): error C2061: 语法错误: 标识符“CATUnicodeChar”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(264): error C2146: 语法错误: 缺少“;”(在标识符“GetMnemonic”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(264): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(264): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(264): warning C4183: “GetMnemonic”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(276): error C2061: 语法错误: 标识符“CATDlgAccelerator”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C2146: 语法错误: 缺少“;”(在标识符“GetAccelerator”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): warning C4183: “GetAccelerator”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C2146: 语法错误: 缺少“,”(在标识符“iForceSmall”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C2548: “CATDialog::SetIconName”: 缺少参数 5 的默认参数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(361): error C2061: 语法错误: 标识符“CATDlgIconType”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C2146: 语法错误: 缺少“;”(在标识符“GetStyle”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): warning C4183: “GetStyle”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(479): error C2061: 语法错误: 标识符“DRECT”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(494): error C2061: 语法错误: 标识符“CATBool”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(501): error C2061: 语法错误: 标识符“DRECT”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(510): error C2061: 语法错误: 标识符“DPOS”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(519): error C2061: 语法错误: 标识符“CATBool”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(526): error C2061: 语法错误: 标识符“DPOS”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(725): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgmenu.h(40): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgbarmenu.h(42): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgbox.h(65): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcontrol.h(350): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(52): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(65): error C2146: 语法错误: 缺少“;”(在标识符“GetState”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(65): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(65): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(65): warning C4183: “GetState”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(81): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgmenuitem.h(45): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(47): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(60): error C2146: 语法错误: 缺少“;”(在标识符“GetState”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(60): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(60): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(60): warning C4183: “GetState”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(76): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(75): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(112): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(112): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(112): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(128): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(128): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(128): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(142): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(142): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(142): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(158): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(158): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(158): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(175): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(175): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(175): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(207): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(207): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(207): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(245): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(245): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(245): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(276): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(276): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(276): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcontainer.h(54): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcontextualmenu.h(53): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgblackbox.h(40): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(180): error C2061: 语法错误: 标识符“Orientation”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C2146: 语法错误: 缺少“;”(在标识符“GetDefaultOrientation”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): warning C4183: “GetDefaultOrientation”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(243): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(276): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(292): error C2061: 语法错误: 标识符“CATDlgAttachment”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(306): error C2061: 语法错误: 标识符“CATDlgAttachment”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(321): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(339): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(352): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(363): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(469): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(474): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(93): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(126): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(157): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(296): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(309): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(322): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(335): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(348): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(361): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(375): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(389): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(403): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(414): error C2146: 语法错误: 缺少“;”(在标识符“GetOKSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(414): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(414): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(414): warning C4183: “GetOKSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(425): error C2146: 语法错误: 缺少“;”(在标识符“GetCANCELSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(425): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(425): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(425): warning C4183: “GetCANCELSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(436): error C2146: 语法错误: 缺少“;”(在标识符“GetPREVIEWSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(436): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(436): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(436): warning C4183: “GetPREVIEWSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(447): error C2146: 语法错误: 缺少“;”(在标识符“GetAPPLYSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(447): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(447): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(447): warning C4183: “GetAPPLYSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(458): error C2146: 语法错误: 缺少“;”(在标识符“GetCLOSESensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(458): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(458): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(458): warning C4183: “GetCLOSESensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(469): error C2146: 语法错误: 缺少“;”(在标识符“GetHELPSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(469): warning C4183: “GetHELPSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(481): error C2146: 语法错误: 缺少“;”(在标识符“GetPREVIOUSSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(481): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(481): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(481): warning C4183: “GetPREVIOUSSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(493): error C2146: 语法错误: 缺少“;”(在标识符“GetNEXTSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(493): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(493): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(493): warning C4183: “GetNEXTSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(505): error C2146: 语法错误: 缺少“;”(在标识符“GetFINISHSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(505): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(505): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(505): warning C4183: “GetFINISHSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdocument.h(74): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdocument.h(313): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(53): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(66): error C2146: 语法错误: 缺少“;”(在标识符“GetState”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(66): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(66): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(66): warning C4183: “GetState”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(82): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgeditor.h(162): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(42): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(54): error C2146: 语法错误: 缺少“;”(在标识符“GetState”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(54): warning C4183: “GetState”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(70): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(70): fatal error C1003: 错误计数超过 100；正在停止编译
+         CSaveHoops.cpp
+     1>c:\program files\dassault systemes\b216\system\publicinterfaces\cat_variant_bool.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files\dassault systemes\b216\system\publicinterfaces\cat_variant_bool.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(119): error C2146: 语法错误: 缺少“;”(在标识符“GetVisibility”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(119): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(119): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(119): warning C4183: “GetVisibility”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(134): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(150): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C2146: 语法错误: 缺少“;”(在标识符“IsSetSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): warning C4183: “IsSetSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(169): error C2146: 语法错误: 缺少“;”(在标识符“GetSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(169): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(169): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(169): warning C4183: “GetSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(276): error C2061: 语法错误: 标识符“CATDlgAccelerator”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C2146: 语法错误: 缺少“;”(在标识符“GetAccelerator”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): warning C4183: “GetAccelerator”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C2146: 语法错误: 缺少“,”(在标识符“iForceSmall”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C2548: “CATDialog::SetIconName”: 缺少参数 5 的默认参数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(361): error C2061: 语法错误: 标识符“CATDlgIconType”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C2146: 语法错误: 缺少“;”(在标识符“GetStyle”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): warning C4183: “GetStyle”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(479): error C2061: 语法错误: 标识符“DRECT”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(494): error C2061: 语法错误: 标识符“CATBool”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(501): error C2061: 语法错误: 标识符“DRECT”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(510): error C2061: 语法错误: 标识符“DPOS”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(519): error C2061: 语法错误: 标识符“CATBool”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(526): error C2061: 语法错误: 标识符“DPOS”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(725): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgmenu.h(40): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgbarmenu.h(42): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgbox.h(65): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcontrol.h(350): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(52): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(65): error C2146: 语法错误: 缺少“;”(在标识符“GetState”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(65): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(65): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(65): warning C4183: “GetState”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(81): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgmenuitem.h(45): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(47): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(60): error C2146: 语法错误: 缺少“;”(在标识符“GetState”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(60): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(60): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(60): warning C4183: “GetState”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckitem.h(76): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(75): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(112): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(112): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(112): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(128): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(128): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(128): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(142): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(142): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(142): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(158): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(158): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(158): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(175): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(175): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(175): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(207): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(207): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(207): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(245): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(245): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(245): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(276): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(276): error C2059: 语法错误:“)”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcombo.h(276): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcontainer.h(54): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcontextualmenu.h(53): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgblackbox.h(40): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(180): error C2061: 语法错误: 标识符“Orientation”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C2146: 语法错误: 缺少“;”(在标识符“GetDefaultOrientation”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): warning C4183: “GetDefaultOrientation”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(243): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(276): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(292): error C2061: 语法错误: 标识符“CATDlgAttachment”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(306): error C2061: 语法错误: 标识符“CATDlgAttachment”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(321): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(339): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(352): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(363): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(469): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(474): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(93): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(126): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(157): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(296): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(309): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(322): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(335): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(348): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(361): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(375): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(389): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(403): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(414): error C2146: 语法错误: 缺少“;”(在标识符“GetOKSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(414): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(414): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(414): warning C4183: “GetOKSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(425): error C2146: 语法错误: 缺少“;”(在标识符“GetCANCELSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(425): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(425): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(425): warning C4183: “GetCANCELSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(436): error C2146: 语法错误: 缺少“;”(在标识符“GetPREVIEWSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(436): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(436): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(436): warning C4183: “GetPREVIEWSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(447): error C2146: 语法错误: 缺少“;”(在标识符“GetAPPLYSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(447): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(447): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(447): warning C4183: “GetAPPLYSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(458): error C2146: 语法错误: 缺少“;”(在标识符“GetCLOSESensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(458): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(458): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(458): warning C4183: “GetCLOSESensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(469): error C2146: 语法错误: 缺少“;”(在标识符“GetHELPSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(469): warning C4183: “GetHELPSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(481): error C2146: 语法错误: 缺少“;”(在标识符“GetPREVIOUSSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(481): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(481): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(481): warning C4183: “GetPREVIOUSSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(493): error C2146: 语法错误: 缺少“;”(在标识符“GetNEXTSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(493): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(493): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(493): warning C4183: “GetNEXTSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(505): error C2146: 语法错误: 缺少“;”(在标识符“GetFINISHSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(505): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(505): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(505): warning C4183: “GetFINISHSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdocument.h(74): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdocument.h(313): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(53): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(66): error C2146: 语法错误: 缺少“;”(在标识符“GetState”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(66): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(66): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(66): warning C4183: “GetState”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradiobutton.h(82): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgeditor.h(162): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(42): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(54): error C2146: 语法错误: 缺少“;”(在标识符“GetState”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(54): warning C4183: “GetState”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgradioitem.h(70): error C2061: 语法错误: 标识符“CATULong”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgfile.h(152): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgfile.h(186): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgfile.h(186): fatal error C1003: 错误计数超过 100；正在停止编译
+         CDlgSetOptionCmd.cpp
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C2146: 语法错误: 缺少“;”(在标识符“IsSetSensitivity”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(157): warning C4183: “IsSetSensitivity”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(276): error C2061: 语法错误: 标识符“CATDlgAccelerator”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C2146: 语法错误: 缺少“;”(在标识符“GetAccelerator”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(282): warning C4183: “GetAccelerator”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C2146: 语法错误: 缺少“,”(在标识符“iForceSmall”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(336): error C2548: “CATDialog::SetIconName”: 缺少参数 5 的默认参数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(361): error C2061: 语法错误: 标识符“CATDlgIconType”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C2146: 语法错误: 缺少“;”(在标识符“GetStyle”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(469): warning C4183: “GetStyle”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(479): error C2061: 语法错误: 标识符“DRECT”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(494): error C2061: 语法错误: 标识符“CATBool”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(501): error C2061: 语法错误: 标识符“DRECT”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(510): error C2061: 语法错误: 标识符“DPOS”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(519): error C2061: 语法错误: 标识符“CATBool”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(526): error C2061: 语法错误: 标识符“DPOS”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdialog.h(725): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(180): error C2061: 语法错误: 标识符“Orientation”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C2146: 语法错误: 缺少“;”(在标识符“GetDefaultOrientation”的前面)
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(194): warning C4183: “GetDefaultOrientation”: 缺少返回类型；假定为返回“int”的成员函数
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(243): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(276): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(292): error C2061: 语法错误: 标识符“CATDlgAttachment”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(306): error C2061: 语法错误: 标识符“CATDlgAttachment”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(321): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(339): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(352): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(363): error C2061: 语法错误: 标识符“CATDlgTabIndex”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(469): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgwindow.h(474): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(93): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(126): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgdialog.h(157): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcontrol.h(350): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlglabel.h(96): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgeditor.h(162): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>c:\program files\dassault systemes\b216\dialog\publicinterfaces\catdlgcheckbutton.h(52): error C2061: 语法错误: 标识符“CATDlgStyle”
+     1>d:\vs2010\vc\atlmfc\include\afx.h(24): fatal error C1189: #error :  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+         CComFun.cpp
+     1>d:\vs2010\vc\atlmfc\include\afx.h(24): fatal error C1189: #error :  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+         CCatiaToIntevueAddin.cpp
+     1>e:\projects10\catiatointevueprj\catiatointevuefrm\catiatointevueaddin.m\src\ccatiatointevueaddin.cpp(65): error C3861: “_T”: 找不到标识符
+     1>e:\projects10\catiatointevueprj\catiatointevuefrm\catiatointevueaddin.m\src\ccatiatointevueaddin.cpp(65): error C3861: “_T”: 找不到标识符
+     1>e:\projects10\catiatointevueprj\catiatointevuefrm\catiatointevueaddin.m\src\ccatiatointevueaddin.cpp(76): error C3861: “_T”: 找不到标识符
+     1>e:\projects10\catiatointevueprj\catiatointevuefrm\catiatointevueaddin.m\src\ccatiatointevueaddin.cpp(76): error C3861: “_T”: 找不到标识符
+     1>e:\projects10\catiatointevueprj\catiatointevuefrm\catiatointevueaddin.m\src\ccatiatointevueaddin.cpp(121): error C3861: “_T”: 找不到标识符
+     1>e:\projects10\catiatointevueprj\catiatointevuefrm\catiatointevueaddin.m\src\ccatiatointevueaddin.cpp(121): error C3861: “_T”: 找不到标识符
+         正在生成代码...
+     1>已完成生成项目“E:\projects10\catiatoIntevuePrj\ToolsData\VisualStudio2010\catiatointevueFrm\CatiaToIntevueAddin.m.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:06.68

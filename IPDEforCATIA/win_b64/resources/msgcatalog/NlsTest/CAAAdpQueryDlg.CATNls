@@ -1,0 +1,6 @@
+Title = "[~CAAAdpQueryDlg,Title~ Qüéry]";
+idPLMClassTypeFrame.Title = "[~CAAAdpQueryDlg,idPLMClassTypeFrame.Title~ PLM Clåss Typé]";
+idPLMAttributeValuesFrame.Title = "[~CAAAdpQueryDlg,ttributeValuesFrame.Title~ Attrîbüté - Vålues]";
+idPLMAttributeValuesFrame.idQueryButton.Title = "[~CAAAdpQueryDlg,Frame.idQueryButton.Title~ Qüéry]";
+idPLMClassTypeFrame.idLblPLMClassType.Title = "[~CAAAdpQueryDlg,e.idLblPLMClassType.Title~ PLMClåssTypé]";
+idResultsFrame.Title = "[~CAAAdpQueryDlg,idResultsFrame.Title~ Résülts]";

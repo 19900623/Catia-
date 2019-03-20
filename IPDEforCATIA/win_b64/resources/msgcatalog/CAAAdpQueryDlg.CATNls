@@ -1,0 +1,9 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "Query";
+idPLMAttributeValuesFrame.idQueryButton.Title = "Query";
+idPLMClassTypeFrame.idLblPLMClassType.Title = "PLMClassType";
+idPLMClassTypeFrame.Title = "PLM Class Type" ;
+idPLMAttributeValuesFrame.Title ="Attribute - Values";
+idResultsFrame.Title = "Results";
+// END WIZARD REPLACEMENT ZONE
+

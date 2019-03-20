@@ -1,0 +1,5 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+Title = "PLM Class Choice";
+idLaunchQueryDialogButton.Title = "Launch Query Dialog";
+idLblPLMType.Title = "PLMType";
+// END WIZARD REPLACEMENT ZONE
